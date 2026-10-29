@@ -34,8 +34,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- data/directory.json; then
-            echo "snapshot unchanged"
+          # "generated" changes on every run by design, so ignore it: only a
+          # real upstream change to the bot list should produce a commit.
+          if git diff -I '^ "generated":' --quiet -- data/directory.json; then
+            echo "snapshot content unchanged"
           else
             git add data/directory.json
             git commit -m "chore: refresh bot snapshot"
