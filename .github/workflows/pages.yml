@@ -1,0 +1,50 @@
+name: Refresh snapshot and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Mondays 14:07 UTC - upstream refreshes its directory weekly.
+    - cron: "7 14 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Re-scrape the upstream directory
+        run: uv run --script scripts/scrape.py
+
+      - name: Commit the snapshot if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/directory.json; then
+            echo "snapshot unchanged"
+          else
+            git add data/directory.json
+            git commit -m "chore: refresh bot snapshot"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4

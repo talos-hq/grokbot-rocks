@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Grok Bot Rocks — the forkable Grok Bot directory</title>
+    <meta
+      name="description"
+      content="A searchable, self-hostable mirror of the public Grok Bot directory: 780 bots in 26 categories, refreshed weekly from readmultiplex.com."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="wrap">
+        <p class="eyebrow">talos-hq / grokbot-rocks</p>
+        <h1>Grok Bot Rocks</h1>
+        <p class="lede">
+          Every public Grok Bot we could find, sorted by what it does. Open a bot to add it to your
+          own Grok Bot.
+        </p>
+        <div class="stats">
+          <span><b id="stat-total">—</b> bots</span>
+          <span><b id="stat-cats">—</b> categories</span>
+          <span><b id="stat-shown">—</b> matching now</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="controls" aria-label="Filter bots">
+        <label class="search">
+          <span class="visually-hidden">Search bots</span>
+          <input
+            id="q"
+            type="search"
+            placeholder="Search names, authors, descriptions…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </label>
+        <label class="sort">
+          <span class="visually-hidden">Sort</span>
+          <select id="sort">
+            <option value="category">Category, then name</option>
+            <option value="name">Name (A→Z)</option>
+            <option value="author">Author (A→Z)</option>
+          </select>
+        </label>
+        <button id="reset" class="ghost" type="button">Reset</button>
+      </section>
+
+      <nav id="chips" class="chips" aria-label="Categories"></nav>
+
+      <p id="empty" class="empty" hidden>No bots match that search.</p>
+      <div id="grid" class="grid" aria-live="polite"></div>
+    </main>
+
+    <footer class="wrap">
+      <p>
+        Data mirrored from
+        <a href="https://readmultiplex.com/grokbot-rocks/" rel="noopener"
+          >“Every Grok Bot: The Complete Directory”</a
+        >
+        by <a href="https://readmultiplex.com/" rel="noopener">@ReadMultiplex</a> (Brian Roemmele).
+        Content remains theirs; this repo is an unaffiliated fork built for search and reuse.
+      </p>
+      <p class="muted">
+        Snapshot: <span id="snapshot">—</span> · Refresh with
+        <code>uv run --script scripts/scrape.py</code>
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
