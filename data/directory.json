@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-02T22:42:54+00:00",
+ "generated": "2026-11-09T23:22:58+00:00",
  "source": "https://readmultiplex.com/grokbot-rocks/",
  "source_title": "Every Grok Bot: The Complete Directory",
  "upstream": "@ReadMultiplex (Brian Roemmele)",
- "total": 956,
+ "total": 970,
  "categories": [
   "Business & Operations",
   "Calendar, Meetings & Scheduling",
@@ -16,6 +16,7 @@
   "Faith & Spirituality",
   "Family, Kids & Learning",
   "Food, Recipes & Dining",
+  "From Brian Roemmele",
   "Fun, Games & Hobbies",
   "Grok Bot Helpers (Bots That Build or Manage Bots)",
   "Health, Fitness & Wellness",
@@ -54,17 +55,17 @@
    "category": "Business & Operations"
   },
   {
-   "name": "Atlas — FOUR.DESKS Switchboard",
-   "author": "Mickey Van Dongen",
-   "url": "https://x.ai/bot/8yW0q8kjOcnbzJZBsWZuc",
-   "description": "Switchboard for a solo freelancer’s FOUR.DESKS operating company: routes work to personal, live business, future studio, and idea-bucket desks — human.",
-   "category": "Business & Operations"
-  },
-  {
    "name": "Bot Team Chief of Staff",
    "author": "Michael",
    "url": "https://x.ai/bot/gwY3JyQ7noK9GSHFo-p7E",
    "description": "Chief of staff for your team of bots. Checks what each bot actually did, catches sloppy or unverified work, keeps…",
+   "category": "Business & Operations"
+  },
+  {
+   "name": "BRIGET",
+   "author": "Bobby",
+   "url": "https://x.ai/bot/wc8Bkk0usMFMGeZ9V9EfE",
+   "description": "Chief of staff for business and personal work.",
    "category": "Business & Operations"
   },
   {
@@ -75,17 +76,17 @@
    "category": "Business & Operations"
   },
   {
+   "name": "Commitments",
+   "author": "Sam Lambert",
+   "url": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+   "description": "Catches promises you make in Slack, Notion, and email, logs them in a Notion database, and keeps them open until…",
+   "category": "Business & Operations"
+  },
+  {
    "name": "Company Docs Q&A",
    "author": "Anoop Baliga",
    "url": "https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9",
    "description": "Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources…",
-   "category": "Business & Operations"
-  },
-  {
-   "name": "Doc Merger",
-   "author": "Brian Roemmele",
-   "url": "https://x.ai/bot/tMEJdHdRUQHgQMOOy-xjj",
-   "description": "Turns a scattered pile of documents into one master file (PDF plus web page, Word, and text) with a table of contents and a check that every file made it in.",
    "category": "Business & Operations"
   },
   {
@@ -166,17 +167,17 @@
    "category": "Business & Operations"
   },
   {
-   "name": "Ops Gerente — mesa de entrada",
-   "author": "Nicolás Taschetti",
-   "url": "https://x.ai/bot/0WMwSjhQuRoM99_FcZtkS",
-   "description": "Intake desk for a logistics/transport ops team: routes work to the right area, uses Google Calendar as source of truth…",
-   "category": "Business & Operations"
-  },
-  {
    "name": "OS: Ontology Stack",
    "author": "Damiano Redemagni",
    "url": "https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD",
    "description": "An operational model of your organization that finds and resolves bottlenecks across projects, people, and processes.",
+   "category": "Business & Operations"
+  },
+  {
+   "name": "Overwatch",
+   "author": "A-A-ron",
+   "url": "https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9",
+   "description": "Keeps a shared multi-bot workspace organized, git-backed, and portable, including layout conventions and cleanup.",
    "category": "Business & Operations"
   },
   {
@@ -208,13 +209,6 @@
    "category": "Business & Operations"
   },
   {
-   "name": "Sam",
-   "author": "Johnny Wang",
-   "url": "https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk",
-   "description": "Studio Director for a small creative studio: routes specialists, prefilters Founder decisions to one slate, runs…",
-   "category": "Business & Operations"
-  },
-  {
    "name": "Shikamaru",
    "author": "Abhimanyu Yadav",
    "url": "https://x.ai/bot/rrvGu13S5uYCc09WP7A-9",
@@ -233,6 +227,13 @@
    "author": "Elyas Alothman",
    "url": "https://x.ai/bot/WHMChivJ0obkKm2uvo9xK",
    "description": "Sole supervisor bot: opinion then direction, then teammate bots execute. Reviews and merges.",
+   "category": "Business & Operations"
+  },
+  {
+   "name": "trimmy",
+   "author": "TimDOES",
+   "url": "https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa",
+   "description": "Reads the bots you name and proposes context cuts side by side with how much memory each trim wins back, applied only on your approval.",
    "category": "Business & Operations"
   },
   {
@@ -348,13 +349,6 @@
    "category": "Calendar, Meetings & Scheduling"
   },
   {
-   "name": "Handyman",
-   "author": "Dylan Mitchell",
-   "url": "https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI",
-   "description": "Remembers your filter sizes and chore dates, then books the next round.",
-   "category": "Calendar, Meetings & Scheduling"
-  },
-  {
    "name": "iMessage Relay",
    "author": "Phillip",
    "url": "https://x.ai/bot/HeVOGnrIY9oMcgGkl3hO5",
@@ -460,17 +454,17 @@
    "category": "Calendar, Meetings & Scheduling"
   },
   {
+   "name": "Zoom Meeting Companion",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6",
+   "description": "Joins your Zoom meetings from a link or your calendar, takes detailed notes, tracks decisions and action items, and sends a clean summary afterward.",
+   "category": "Calendar, Meetings & Scheduling"
+  },
+  {
    "name": "Auto Tech Bot",
    "author": "Goose",
    "url": "https://x.ai/bot/lo_Wty5lv_egFWbyhZKBE",
    "description": "Your car's manual, mechanic's notebook and service log in one chat.",
-   "category": "Cars & Vehicles"
-  },
-  {
-   "name": "Car Bot",
-   "author": "Kevin Chau",
-   "url": "https://x.ai/bot/w6FkVLjehhyVw6yF8FBQn",
-   "description": "Day-to-day Tesla garage attendant. Handles status, climate, lock/unlock, charging, and navigation via Tesla Fleet API and TeslaFi — brief, concrete…",
    "category": "Cars & Vehicles"
   },
   {
@@ -492,6 +486,20 @@
    "author": "JM L",
    "url": "https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg",
    "description": "Junkyard mechanic that finds chat rot in long-running bots and cleans them up.",
+   "category": "Cars & Vehicles"
+  },
+  {
+   "name": "DJ",
+   "author": "Trevin Chow",
+   "url": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
+   "description": "Controls Spotify: picks sets, suggests new artists, learns taste quietly, and maps nicknames like “car” or “office”…",
+   "category": "Cars & Vehicles"
+  },
+  {
+   "name": "Drivr",
+   "author": "Bill French",
+   "url": "https://x.ai/bot/TDbL2EAyGVmW2isqGPRwx",
+   "description": "Voice capture for Tesla drivers: ramble in the car, say \"done\", and your notes, to-dos and ideas get filed and remembered between drives.",
    "category": "Cars & Vehicles"
   },
   {
@@ -534,13 +542,6 @@
    "author": "Michael",
    "url": "https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M",
    "description": "Tell it what you're hunting for (an apartment, a used car, tickets, a restock) and every morning you see only what's new.",
-   "category": "Cars & Vehicles"
-  },
-  {
-   "name": "OSM Map Fixer",
-   "author": "Michael Wise",
-   "url": "https://x.ai/bot/oi7v9ikWFvnr14b4KQ3w2",
-   "description": "Fix OpenStreetMap with you: describe what looks or feels wrong, from a missing gate to a lane your Tesla FSD or nav app keeps picking.",
    "category": "Cars & Vehicles"
   },
   {
@@ -649,14 +650,14 @@
    "category": "Cars & Vehicles"
   },
   {
-   "name": "Tourguide",
+   "name": "Tourguide · FSD Tourguide",
    "author": "Kurt Goodfellow",
    "url": "https://x.ai/bot/sOiYa9ibSLkF2dVHobOXc",
    "description": "Turns the Grok in your self-driving car into a tour guide. Pick Ride-Along along your own route or a Guided Tour where the car picks the stops.",
    "category": "Cars & Vehicles"
   },
   {
-   "name": "Volt",
+   "name": "Volt · Tesla Connector",
    "author": "Alex Lerch",
    "url": "https://x.ai/bot/6H9d0YMSVVXyssBTG2Eh5",
    "description": "Tesla bot that checks your car's status and runs commands through Tesla's official Fleet API, asking to confirm anything risky.",
@@ -768,13 +769,6 @@
    "category": "Coaching, Advice & Decisions"
   },
   {
-   "name": "First-Week Coach",
-   "author": "Big Morongo",
-   "url": "https://x.ai/bot/samFY0kZtZeVHci9gWkqk",
-   "description": "Interviews your week, ships one safe win today, then the next bot, skill, or routine — one at a time. Never sends, spends, or posts without your yes.",
-   "category": "Coaching, Advice & Decisions"
-  },
-  {
    "name": "Fitness Coach",
    "author": "Paul Blanche",
    "url": "https://x.ai/bot/s98xfhpL_T32hwckQyjwg",
@@ -803,6 +797,13 @@
    "category": "Coaching, Advice & Decisions"
   },
   {
+   "name": "Kilo",
+   "author": "MOPROD Music",
+   "url": "https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA",
+   "description": "Practical day-to-day fitness coach. Training calls with real loads, meal decisions from what you ate, sleep-aware…",
+   "category": "Coaching, Advice & Decisions"
+  },
+  {
    "name": "Mentor",
    "author": "Jon Rose",
    "url": "https://x.ai/bot/3rV7gv1k94G6gCG_arFLr",
@@ -821,13 +822,6 @@
    "author": "Jenna Nanpei",
    "url": "https://x.ai/bot/PlsyvUb0KnHIQr6psoy0L",
    "description": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls.",
-   "category": "Coaching, Advice & Decisions"
-  },
-  {
-   "name": "Personal Trainer",
-   "author": "Virag",
-   "url": "https://x.ai/bot/NHDcLbHnQyb1nWlfkVAjm",
-   "description": "Strength coach for an A/B/C lifting rebuild with a simple sleep log that adjusts loads from energy, sleep, and joints.",
    "category": "Coaching, Advice & Decisions"
   },
   {
@@ -866,6 +860,13 @@
    "category": "Coaching, Advice & Decisions"
   },
   {
+   "name": "Site Coach",
+   "author": "Phillip Holland",
+   "url": "https://x.ai/bot/nk0jtBcOKfzIKbkfWjHzU",
+   "description": "A plain-English coach for your website's Google Search Console and GA4.",
+   "category": "Coaching, Advice & Decisions"
+  },
+  {
    "name": "Tab Janitor",
    "author": "@suddenlyjon",
    "url": "https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK",
@@ -876,7 +877,7 @@
    "name": "X High Coach",
    "author": "High Tv",
    "url": "https://x.ai/bot/xSfBSprfKv5h909uzrv7W",
-   "description": "Audits any public X account and tells you exactly what to change.",
+   "description": "X content coach for your own account: connect X and get a scored review automatically, with follower watch…",
    "category": "Coaching, Advice & Decisions"
   },
   {
@@ -884,6 +885,13 @@
    "author": "John Shetler",
    "url": "https://x.ai/bot/vPREznXsecJi_51MeJNRQ",
    "description": "Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners…",
+   "category": "Coding & Software"
+  },
+  {
+   "name": "Agent Manage Bot",
+   "author": "haiyuan cao",
+   "url": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
+   "description": "Chief of staff for a dual-layer agent harness (bots plus Mac CLI coding and research agents): routing, tmux-isolated…",
    "category": "Coding & Software"
   },
   {
@@ -901,6 +909,13 @@
    "category": "Coding & Software"
   },
   {
+   "name": "Behavior Reverser",
+   "author": "Avid",
+   "url": "https://x.ai/bot/d1omyX9etZuAdtVMFgjUD",
+   "description": "Traces how one feature of software you may inspect works, with the open-source REA tool, into an evidence-backed note for a clean-room spec.",
+   "category": "Coding & Software"
+  },
+  {
    "name": "Claude Remote",
    "author": "Nick Salerni",
    "url": "https://x.ai/bot/aB0M7wQOAcFgd_G0rTEWF",
@@ -912,6 +927,13 @@
    "author": "Farzad",
    "url": "https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D",
    "description": "Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR.",
+   "category": "Coding & Software"
+  },
+  {
+   "name": "Doc Merger",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/tMEJdHdRUQHgQMOOy-xjj",
+   "description": "Turns a scattered pile of documents into one master file (PDF plus web page, Word, and text) with a table of contents and a check that every file made it in.",
    "category": "Coding & Software"
   },
   {
@@ -940,13 +962,6 @@
    "author": "Naoufal El hassnaoui",
    "url": "https://x.ai/bot/qL920VjKyua3_u89UYnQL",
    "description": "Reads your company's website and staffs you a leadership bench of bots.",
-   "category": "Coding & Software"
-  },
-  {
-   "name": "Forge",
-   "author": "Hexakin",
-   "url": "https://x.ai/bot/8dB3XPIA8XIopvQUIC73P",
-   "description": "You are Forge, grokbot.studio door + installer. Coding-aware desk; THIS HEAD still does not write product code.",
    "category": "Coding & Software"
   },
   {
@@ -1020,24 +1035,10 @@
    "category": "Coding & Software"
   },
   {
-   "name": "Shep",
-   "author": "Simon Gagnon",
-   "url": "https://x.ai/bot/pjuM6P_92QUE6jF6H6dpw",
-   "description": "Orchestrates coding agents on Herdr through bercail.",
-   "category": "Coding & Software"
-  },
-  {
    "name": "Startup QA Bot",
    "author": "Shub Gaur",
    "url": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
    "description": "Walks your product every weekday in its own test account and tells you what shipped, what got unshipped, what broke (with repro steps and screenshots), and which calls…",
-   "category": "Coding & Software"
-  },
-  {
-   "name": "Studio Chief",
-   "author": "Nicholas Barella",
-   "url": "https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa",
-   "description": "Runs a specialist bot team for a product-photography studio: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay on shoots.",
    "category": "Coding & Software"
   },
   {
@@ -1051,7 +1052,7 @@
    "name": "T3 Code Bridge",
    "author": "Trevin Chow",
    "url": "https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH",
-   "description": "Bridges Grok Bot and T3 Code: starts, steers, and watches your T3 Code coding threads for you and your other bots…",
+   "description": "Bridges Grok Bot and T3 Code: starts, steers, and watches your T3 Code coding threads for you and your other bots.",
    "category": "Coding & Software"
   },
   {
@@ -1251,17 +1252,17 @@
    "category": "Email & Inbox"
   },
   {
-   "name": "Inbox Zero",
-   "author": "Ashley Schendel",
-   "url": "https://x.ai/bot/9UjZlzLTiCHz5iPNilWMd",
-   "description": "Email operations assistant: triages your whole inbox, drafts replies, tracks follow-ups and deadlines, sends a daily brief. Changes nothing without approval.",
-   "category": "Email & Inbox"
-  },
-  {
    "name": "Inbox Zero Chief of Staff",
    "author": "Moritz Bierling",
    "url": "https://x.ai/bot/-hFhR6u_HxM1mlGX92HK9",
    "description": "Gets your inbox to zero and keeps it there: daily triage, a digest of what needs you, and reply drafts you approve before anything is sent.",
+   "category": "Email & Inbox"
+  },
+  {
+   "name": "Mail in X Chat",
+   "author": "Phillip Holland",
+   "url": "https://x.ai/bot/h1bJOR_y1RysAZrmkN05m",
+   "description": "Brings your important email into one X Chat as short cards, and sends a reply only after you say yes.",
    "category": "Email & Inbox"
   },
   {
@@ -1307,6 +1308,27 @@
    "category": "Events"
   },
   {
+   "name": "BP26 Side Events Autoregister",
+   "author": "Matt",
+   "url": "https://x.ai/bot/7HzGMnst8L3s0FFCagfWR",
+   "description": "Registers you for Solana Breakpoint 2026 London side events on Luma with saved answers, skips paid ones, and rechecks.",
+   "category": "Events"
+  },
+  {
+   "name": "ConBot",
+   "author": "Noah Levin",
+   "url": "https://x.ai/bot/7o-XAypc1ixPgapL3WU2U",
+   "description": "Your conference companion — present online so you can stay present IRL.",
+   "category": "Events"
+  },
+  {
+   "name": "Current SF 2026 Companion",
+   "author": "Unknown",
+   "url": "https://x.ai/bot/UPpW_gQXJB6Puqhe6MxAB",
+   "description": "Conference companion for Current San Francisco 2026 that finds your sessions, recommends talks and pings you about what is starting.",
+   "category": "Events"
+  },
+  {
    "name": "Event Guest Screener",
    "author": "SpaceX",
    "url": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
@@ -1317,13 +1339,6 @@
    "name": "Event Planner Desk PARTY-PRO",
    "author": "Cypher Monkey",
    "url": "https://x.ai/bot/hGAgxNFJOIGL1zgJMcojw",
-   "description": "Turn an event brief into vendor options, a run-of-show, a budget table and guest-message drafts in one plan.",
-   "category": "Events"
-  },
-  {
-   "name": "Event Planner Desk PARTY-PRO",
-   "author": "Cypher",
-   "url": "https://x.ai/bot/hgagxnfjoigl1zgjmcojw",
    "description": "Turn an event brief into vendor options, a run-of-show, a budget table and guest-message drafts in one plan.",
    "category": "Events"
   },
@@ -1384,10 +1399,10 @@
    "category": "Events"
   },
   {
-   "name": "Local Event Hunter",
-   "author": "Andrew Pocta",
-   "url": "https://x.ai/bot/0NhlyfRbx2lyZZ0AxGceA",
-   "description": "Finds local events in any city or town, reads venue and organizer reviews for practical details, and scores each pick against your family's.",
+   "name": "Local Events Roundup",
+   "author": "𝖘𝖙𝖆𝖗𝖋𝖎𝖗𝖊𓅪",
+   "url": "https://x.ai/bot/906iGrd94sK-sgWhPQw79",
+   "description": "Sends a personalized weekly roundup with verified links and optional day-of reminders for concerts, festivals, shows, and events near you.",
    "category": "Events"
   },
   {
@@ -1447,7 +1462,7 @@
    "category": "Events"
   },
   {
-   "name": "Milou",
+   "name": "Networking Week Scout",
    "author": "Kevin Dorfer",
    "url": "https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S",
    "description": "Weekly networking scout for founders and operators. Finds Luma/Eventbrite events in your metro, checks inbox invites and calendar conflicts.",
@@ -1485,7 +1500,7 @@
    "name": "Wedding OS",
    "author": "Addison",
    "url": "https://x.ai/bot/G5AcR1QDzXxoX3iURnl_4",
-   "description": "Wedding ops partner for couples without a full-service planner: flex checklist, budget breakdown, approve-gated vendor calls/SMS…",
+   "description": "Wedding ops partner for couples without a full-service planner: flex checklist, budget breakdown, approve-gated vendor calls/SMS, and guest/RSVP tools.",
    "category": "Events"
   },
   {
@@ -1493,13 +1508,6 @@
    "author": "Alex Taub",
    "url": "https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK",
    "description": "Finds wedding photos by walking the Facebook guest graph from people you already know, then saves them to a folder…",
-   "category": "Events"
-  },
-  {
-   "name": "Wedding Photo Hunter",
-   "author": "Alex",
-   "url": "https://x.ai/bot/ql6dww98g_oghwqdmgvjk",
-   "description": "Finds wedding photos by walking the Facebook guest graph from people you already know, then saves them to a folder on your computer.",
    "category": "Events"
   },
   {
@@ -1531,6 +1539,13 @@
    "category": "Everything Else"
   },
   {
+   "name": "Custom Parts Designer (8020 compatible aluminum extrusion)",
+   "author": "Caleb graham",
+   "url": "https://x.ai/bot/_Gv4v6Numkag8U8X0AtiK",
+   "description": "Models 8020 compatible aluminum extrusion T-slot frames in headless FreeCAD, runs interference, deflection and racking checks.",
+   "category": "Everything Else"
+  },
+  {
    "name": "Dickinson",
    "author": "@suddenlyjon",
    "url": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
@@ -1542,13 +1557,6 @@
    "author": "@suddenlyjon",
    "url": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
    "description": "Converse as Dostoyevsky’s moral pressure on confession, freedom, and guilt.",
-   "category": "Everything Else"
-  },
-  {
-   "name": "DWTS Ezra Votes",
-   "author": "Scott Metcalf",
-   "url": "https://x.ai/bot/FudoGp1ChuiSXr3TMVZGG",
-   "description": "Maximizes votes for Ezra Frech & Daniella Karagach on Dancing with the Stars: up to 20 per live Eastern/Central window — 10 SMS (EZRA → 21523 from Mac.",
    "category": "Everything Else"
   },
   {
@@ -1713,7 +1721,7 @@
    "category": "Everything Else"
   },
   {
-   "name": "Aquinas",
+   "name": "Aquinas · Bible Study, Theology",
    "author": "Sean McCay",
    "url": "https://x.ai/bot/eI5PIlAfqb6KJdshiyZ3p",
    "description": "Daily Catholic Bible formation: Mass readings, Catena Aurea, Greek notes, and chivalric virtue in a Gothic manuscript page.",
@@ -1772,7 +1780,7 @@
    "name": "Faith General",
    "author": "Wizard",
    "url": "https://x.ai/bot/s-74qExDQH7an6O5yTaPy",
-   "description": "A warm Christian faith companion. It offers short Scripture-led check-ins, prayer, encouragement, and gentle biblical…",
+   "description": "A warm Christian faith companion that offers Scripture, prayer, encouragement, and gentle biblical accountability.",
    "category": "Faith & Spirituality"
   },
   {
@@ -1846,6 +1854,13 @@
    "category": "Faith & Spirituality"
   },
   {
+   "name": "Pastor Pete",
+   "author": "James Harrison",
+   "url": "https://x.ai/bot/YrxlAlCd7MQujjCOlStvm",
+   "description": "A free, warm Bible and faith companion. Tell it what you're facing and it shares real Bible stories and verses with exact references.",
+   "category": "Faith & Spirituality"
+  },
+  {
    "name": "Paul",
    "author": "Wilson Samiano",
    "url": "https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1",
@@ -1853,10 +1868,10 @@
    "category": "Faith & Spirituality"
   },
   {
-   "name": "Preach",
+   "name": "Psalm",
    "author": "Xavier Ortiz",
    "url": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
-   "description": "A street-honest preacher bot: one real Bible verse and a short motivational line each day.",
+   "description": "Sends you one real Bible verse each morning, quoted exactly with its reference, plus a short line to lift you up…",
    "category": "Faith & Spirituality"
   },
   {
@@ -1874,10 +1889,10 @@
    "category": "Faith & Spirituality"
   },
   {
-   "name": "Shepherd",
+   "name": "Shepherd · Faith Desk",
    "author": "Justin Strafuss",
    "url": "https://x.ai/bot/jJX-rUshHTIK8RP9IpJKE",
-   "description": "A faith companion for daily Bible reading, weekly group or Space prep, and short encouragement drafts you post…",
+   "description": "A faith companion for Bible study, weekly group or Space prep, and short encouragement post drafts in your own voice…",
    "category": "Faith & Spirituality"
   },
   {
@@ -1885,13 +1900,6 @@
    "author": "Evariel, FlameBeacon",
    "url": "https://x.ai/bot/0EPl4hGRjKUqGhDpr44sa",
    "description": "Examines extraordinary, spiritual, historical, scientific, viral, or controversial claims without reflexively believing…",
-   "category": "Faith & Spirituality"
-  },
-  {
-   "name": "Spiritual Advisor",
-   "author": "Grease",
-   "url": "https://x.ai/bot/t-Ag2GaAJ8zzUAXEaoKab",
-   "description": "A scriptorian, history expert and caring spiritual mentor who gives counsel, prepares lessons, talks and General Conference study guides, plus daily reflection.",
    "category": "Faith & Spirituality"
   },
   {
@@ -1947,7 +1955,7 @@
    "name": "Candlestick Retests Tutor",
    "author": "Hoem Crypto",
    "url": "https://x.ai/bot/jtVHTeAL9lhQX_SDcKlcY",
-   "description": "A personal tutor for candlestick highs and lows, swing failure patterns and multi-candle failed breaks (not breakouts…",
+   "description": "A personal tutor for candlestick highs and lows, swing failure patterns and multi-candle failed breaks (not breakouts vs retests)…",
    "category": "Family, Kids & Learning"
   },
   {
@@ -1972,24 +1980,24 @@
    "category": "Family, Kids & Learning"
   },
   {
-   "name": "Family Bot",
-   "author": "Honeycomb",
-   "url": "https://x.ai/bot/2qnCjujldr-SmAvvmGWOt",
-   "description": "Family chief of staff in any language: reads school and sports emails and flyer photos, surfaces to-dos and dates, catches pickup clashes, digests per kid.",
-   "category": "Family, Kids & Learning"
-  },
-  {
    "name": "Family Cyber Shield",
    "author": "Brian",
    "url": "https://x.ai/bot/PJS4c0UlEuodw7Uvsffjq",
-   "description": "Checks your email for phishing and guides you through DNS blocking, Mac firewall, passkeys, and 2FA.",
+   "description": "Checks your email for phishing and guides you through DNS blocking, Mac firewall, passkeys and 2FA, asking before it reads anything.",
    "category": "Family, Kids & Learning"
   },
   {
    "name": "First Trouble Area Tutor",
    "author": "Hoem Crypto",
    "url": "https://x.ai/bot/-O8mW5H0teLGgF1fq17Li",
-   "description": "A personal tutor for the First Trouble Area (FTA), from complete beginner to expert: a placement chat, five lessons…",
+   "description": "A personal tutor for the First Trouble Area (FTA), from complete beginner to expert: a placement chat, five lessons, a practical exercise, quizzes…",
+   "category": "Family, Kids & Learning"
+  },
+  {
+   "name": "FreeToken",
+   "author": "Min Li",
+   "url": "https://x.ai/bot/G33RxzA5ocOTN3DmHcsFU",
+   "description": "Finds truly free, tool-capable flagship models on OpenRouter for Pi child agents, and checks the free list for changes…",
    "category": "Family, Kids & Learning"
   },
   {
@@ -2010,7 +2018,7 @@
    "name": "Ichimoku Cloud Tutor",
    "author": "Hoem Crypto",
    "url": "https://x.ai/bot/5Jjrh3MbrsW-svybwPKEq",
-   "description": "A personal tutor for the Ichimoku Cloud, from complete beginner to expert: a placement chat, then lessons with check…",
+   "description": "A personal tutor for the Ichimoku Cloud, from complete beginner to expert: a placement chat, then lessons with check questions, quizzes…",
    "category": "Family, Kids & Learning"
   },
   {
@@ -2059,7 +2067,7 @@
    "name": "Overthrow For Stop Losses Tutor",
    "author": "Hoem Crypto",
    "url": "https://x.ai/bot/QaLR9fBLA3D-n4Dl59CY_",
-   "description": "A personal tutor for the Overthrow approach to stop losses, from complete beginner to expert: a placement chat…",
+   "description": "A personal tutor for the Overthrow approach to stop losses, from complete beginner to expert: a placement chat, then lessons with check…",
    "category": "Family, Kids & Learning"
   },
   {
@@ -2073,7 +2081,14 @@
    "name": "Retests Tutor",
    "author": "Hoem Crypto",
    "url": "https://x.ai/bot/WzmucCA87dDNLDGwGScfU",
-   "description": "A personal tutor for breakouts vs retests (not candlestick retests), from complete beginner to expert: a placement…",
+   "description": "A personal tutor for breakouts vs retests (not candlestick retests), from complete beginner to expert: a placement chat, then lessons…",
+   "category": "Family, Kids & Learning"
+  },
+  {
+   "name": "Risk Management Tutor",
+   "author": "Hoem Crypto",
+   "url": "https://x.ai/bot/q-yUP6MiyxCh9fGf_fjbu",
+   "description": "A tutor for trading risk management: survival, stops, position sizing, R and win rate, trade management, drawdowns and leverage.",
    "category": "Family, Kids & Learning"
   },
   {
@@ -2084,17 +2099,10 @@
    "category": "Family, Kids & Learning"
   },
   {
-   "name": "School",
-   "author": "Hexakin",
-   "url": "https://x.ai/bot/dZEyXZ6zMhmiY52eJOQnX",
-   "description": "You are School, grokbot.studio door + installer.",
-   "category": "Family, Kids & Learning"
-  },
-  {
    "name": "Time Frames Tutor",
    "author": "Hoem Crypto",
    "url": "https://x.ai/bot/NtCP4XuqjTYffwCGgM9cN",
-   "description": "A personal tutor for multi-timeframe analysis, from complete beginner to expert: a placement chat, then lessons…",
+   "description": "A personal tutor for multi-timeframe analysis, from complete beginner to expert: a placement chat, then lessons with check questions, quizzes…",
    "category": "Family, Kids & Learning"
   },
   {
@@ -2183,13 +2191,6 @@
   },
   {
    "name": "Chef",
-   "author": "Steve",
-   "url": "https://x.ai/bot/1CX2xQOCmw885viaWCws5",
-   "description": "A personal recipe manager that stores your recipes in a searchable database and finds them by ingredient, cuisine, tags, time, or difficulty.",
-   "category": "Food, Recipes & Dining"
-  },
-  {
-   "name": "Chef",
    "author": "@Totao",
    "url": "https://x.ai/bot/H3LFWOGUBop6BQWysbT12",
    "description": "Budget personal chef that plans weekly menus, a single batch-cook session and quick recipes around your diet, budget and household.",
@@ -2207,6 +2208,13 @@
    "author": "Roman Olschanowsky",
    "url": "https://x.ai/bot/Ed-L-mUFR_9nR2BYMssNF",
    "description": "A personal chef bot that keeps liked recipes, tracks pantry stock from photos, plans easy weekly meals, and puts dinner…",
+   "category": "Food, Recipes & Dining"
+  },
+  {
+   "name": "Chef · Recipe Guru",
+   "author": "Steve",
+   "url": "https://x.ai/bot/1CX2xQOCmw885viaWCws5",
+   "description": "A personal recipe manager that stores your recipes in a searchable database and finds them by ingredient, cuisine, tags, time, or difficulty.",
    "category": "Food, Recipes & Dining"
   },
   {
@@ -2281,16 +2289,16 @@
   },
   {
    "name": "Meal planner",
-   "author": "@deni0107",
-   "url": "https://x.ai/bot/WkGExRci7Q1LO9B1nfaCn",
-   "description": "Plans simple, high-protein weeknight dinners, then fills your online grocery cart for delivery. Nothing is ordered without your approval.",
+   "author": "Rachel V",
+   "url": "https://x.ai/bot/04sgrpvtAre-Khtz6KDyg",
+   "description": "A meal planner and food label reader for adults. It plans weekly meals around your kitchen, pantry and budget, and builds a priced.",
    "category": "Food, Recipes & Dining"
   },
   {
    "name": "Meal planner",
-   "author": "Rachel V",
-   "url": "https://x.ai/bot/04sgrpvtAre-Khtz6KDyg",
-   "description": "A meal planner and food label reader for adults. It plans weekly meals around your kitchen, pantry and budget, and builds a priced.",
+   "author": "@deni0107",
+   "url": "https://x.ai/bot/WkGExRci7Q1LO9B1nfaCn",
+   "description": "Plans simple, high-protein weeknight dinners, then fills your online grocery cart for delivery. Nothing is ordered without your approval.",
    "category": "Food, Recipes & Dining"
   },
   {
@@ -2341,6 +2349,97 @@
    "url": "https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg",
    "description": "Looks at a photo of your fridge or cupboard and suggests what to cook, what to use up first, and what to buy.",
    "category": "Food, Recipes & Dining"
+  },
+  {
+   "name": "Attic Archivist",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2117320396370530726",
+   "description": "What's in the attic box? Send photos of old records, photos, slides, tapes or home movies: it identifies each item, shows what similar items really sold for (linked sales, never made-up), and walks you through saving it all digitally. It never buys or sells for you.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Bot Bodyguard",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/abPHs-nvdICU7XiRDyrSg",
+   "description": "Know what every one of your Grok Bots can reach and send. Each week it checks connectors, routines and permissions, flags anything new or odd, and gives you a plain safety score. It only looks: nothing changes without your OK.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Claim Denial Fighter",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2116951368829403569",
+   "description": "Turn a health insurance denial into a strong appeal. Hand it your denial letter and EOB, and it finds the real denial reason and codes, works out your appeal deadline, and drafts the appeal for you to review and send.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Estate Settler",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/DaegPVp52kfKdmYoPQ3S7",
+   "description": "One gentle checklist for the paperwork after a loved one dies: who to notify, what to close, how many death certificates to order, and every deadline tracked. It drafts the letters for you to send.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Help, I Haven't Checked In",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2119857994582421788",
+   "description": "A trip check-in fail-safe for hikers, backcountry drivers, paddlers and solo travelers. Leave your route and check-in time; if you don't check in, it prepares an overdue notice with your plan and last details for one contact you named, in words you approved first. No GPS, never calls 911, and a missed check-in means status unknown, not confirmed danger.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "New Patient Booker",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2117679838903648616",
+   "description": "Find a new doctor or dentist who takes your insurance, and get the first visit booked. It finds providers near you who are taking new patients, compares their reviews side by side and, with your OK, calls the office to confirm your plan and book the visit, then puts it on your calendar. You approve every call and booking. Not medical advice.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Product Alert Bot",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2117767350493823204",
+   "description": "Sold out again? Not anymore. Name the exact product you want, down to model, color, size, storage and carrier, pick the stores, and it watches for shipping or pickup near you, for limited products and shows too. It pings you only when it's back at your price, can call the store to confirm it's on the shelf, and fills your cart but never buys without your yes.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Read Every App",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/brianroemmele/status/2117775975052386630",
+   "description": "Read Every App reads the privacy policy and terms of every app on your phone and quotes the exact line where each one says it can sell or “share” your data, use your photos, or track your location. Then it drafts a “delete my data and stop selling it” request to each app. You get a report with all the details, and nothing goes out without your yes. It tracks the legal deadlines and drafts the follow-ups when a company goes quiet. Not legal advice.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Shopping Agent: Best Price, Coupons & Discount Codes",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2118046597804360112",
+   "description": "My own shopping department, running 24/7. It ranks every option by the real total with shipping, tax and fees, tests coupon codes and shows only ones it saw accepted, explains every discount with its source, builds a side-by-side comparison of up to 10 options, filters out scam listings, can call local shops for quotes, and watches sales, prices and stock. It never buys without your yes.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Three Quotes",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2117679311511761308",
+   "description": "Three local pros, three written quotes, side by side. Need a plumber, roofer, mover or electrician for your home? It writes one clear brief of the work, finds licensed local pros with solid reviews and, with your OK for each call, phones them for a written quote, then lines the quotes up with the red flags marked. It never hires anyone, never pays anyone and never makes up a number.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Ultimate Calling Assistant Bot",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/brianroemmele/status/2117836327668650049",
+   "description": "A phone secretary that makes the calls you dread: banks, insurance, the DMV, utilities, tech support, doctor's offices and more. Tell it who to call, what you want and the perfect outcome. It finds the best number and phone-tree path, dials with Grok's built-in calling, presses the menu keys, waits through hold music with status updates, tells the person it is calling for you and pushes for your result, and pops their questions into your chat to answer mid-call. Afterward you get a full-color PDF report: green/amber/red outcome, transcript highlights, timeline, a numbered action plan and notes for next time.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "Warranty & Registration Bot",
+   "author": "Brian Roemmele",
+   "url": "https://x.com/BrianRoemmele/status/2117765640484475173",
+   "description": "Something you own broke, got damaged or was stolen? Say it in one sentence. It finds the receipt, order and serial numbers and the card you paid with in your email and Drive, then climbs the coverage ladder: store return window, maker's warranty, recalls, protection plans, card benefits, then car and home insurance, with the deductible math done. It files and tracks claims, writes appeals, and renews car registration only on your state's official DMV site. Nothing is sent, said or paid without your yes.",
+   "category": "From Brian Roemmele"
+  },
+  {
+   "name": "X Money Bill Pay Guard",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/10ZAtArrlz36Tr9WBSOy5",
+   "description": "Spot duplicate or odd charges and see bills coming due before they are late. It watches your bills and X Money activity, flags duplicate or unusual charges, reminds you before due dates and lines up payments, but asks you every single time: not one cent moves without your explicit OK. Not a financial adviser.",
+   "category": "From Brian Roemmele"
   },
   {
    "name": "Android / Play Build Engineer",
@@ -2553,17 +2652,10 @@
    "category": "Fun, Games & Hobbies"
   },
   {
-   "name": "Agent Manage Bot",
-   "author": "haiyuan cao",
-   "url": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
-   "description": "Chief of staff for a dual-layer agent harness (Grok bots + Mac CLI coding and research agents): Jev-gated intake…",
-   "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
-  },
-  {
    "name": "Apple Mac Tools",
    "author": "Kevin Logan",
    "url": "https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1",
-   "description": "Mac-only installer that sets up tested Mac command-line tools so your Grok Bots can use Apple apps.",
+   "description": "Installs about 20 tested Mac command-line tools so your Grok Bots can use Reminders, Calendar, iMessages, Notes, Photos…",
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
   {
@@ -2617,15 +2709,15 @@
   },
   {
    "name": "dr eggbot",
-   "author": "lauren",
-   "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+   "author": "Lauren Tan",
+   "url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
    "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent.",
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
   {
    "name": "dr eggbot",
-   "author": "Lauren Tan",
-   "url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+   "author": "lauren",
+   "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
    "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent.",
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
@@ -2665,6 +2757,13 @@
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
   {
+   "name": "Grok Deck",
+   "author": "Mai Yang",
+   "url": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+   "description": "Makes HTML slide decks in the Grok Bot look: paper canvas, blob faces, morphing page turns.",
+   "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
+  },
+  {
    "name": "Gwynne Botwell",
    "author": "Darren Falkingham",
    "url": "https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT",
@@ -2700,6 +2799,13 @@
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
   {
+   "name": "Memento",
+   "author": "Mahesh Sanikommu",
+   "url": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+   "description": "Lasting recall for Grok Bot, backed by an external memory store.",
+   "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
+  },
+  {
    "name": "Memory Transfer",
    "author": "Brian Roemmele",
    "url": "https://x.ai/bot/Ww-RXj-lLqpg_oWqzccKZ",
@@ -2728,13 +2834,6 @@
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
   {
-   "name": "Optimus Prime",
-   "author": "No Name",
-   "url": "https://x.ai/bot/WxGbnDbKL3pzLxixjUuK0",
-   "description": "Chief of staff for your other Grok Bots. Pulls you in for decisions, starts with Google (Gmail, Calendar, Drive), and keeps priority mail + digests.",
-   "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
-  },
-  {
    "name": "Phone with Bland",
    "author": "Cole Baker",
    "url": "https://x.ai/bot/4BmzjFu_i3mVd58irr1x1",
@@ -2749,17 +2848,17 @@
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
   {
-   "name": "Small Biz Control Orchestrator",
-   "author": "Joseph Crabtree",
-   "url": "https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7",
-   "description": "Runs a small product business with a crew of specialist Grok Bots.",
-   "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
-  },
-  {
    "name": "Triageo",
    "author": "Richard McKay",
    "url": "https://x.ai/bot/tlAsiVySdtKrIskKf2xTn",
    "description": "A decision inbox for people who run several bots. Your bots send it their questions.",
+   "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
+  },
+  {
+   "name": "What's New",
+   "author": "Matt Palmer",
+   "url": "https://x.ai/bot/dEFFB5_KX5U06lNJWVZCi",
+   "description": "Sends you the latest Grok Bot release notes and the newest \"What's new in Grok Bot\" video when you add it, then checks every morning for anything new.",
    "category": "Grok Bot Helpers (Bots That Build or Manage Bots)"
   },
   {
@@ -2802,6 +2901,13 @@
    "author": "Uzair Ahmed",
    "url": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
    "description": "A friendly, no-lecture calorie coach for anyone who wants to lose fat or eat healthier.",
+   "category": "Health, Fitness & Wellness"
+  },
+  {
+   "name": "CEO Bot",
+   "author": "Sravan v J",
+   "url": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
+   "description": "A coordinator over six life-area helpers (projects, health, relationships, calendar, notes) that rolls up one morning briefing; nothing sent without sign-off.",
    "category": "Health, Fitness & Wellness"
   },
   {
@@ -2938,13 +3044,6 @@
    "category": "Health, Fitness & Wellness"
   },
   {
-   "name": "Kilo",
-   "author": "MOPROD Music",
-   "url": "https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA",
-   "description": "Plans today's workout from where you are, recovery, recent training, and meals, with form clips.",
-   "category": "Health, Fitness & Wellness"
-  },
-  {
    "name": "Medical Bill Auditor",
    "author": "Brian Roemmele",
    "url": "https://x.ai/bot/6WDjYuRuZN23rSKzl8H_F",
@@ -3043,17 +3142,17 @@
    "category": "Home, Garden & Pets"
   },
   {
-   "name": "Grok your Dog",
-   "author": "Bryan Levy",
-   "url": "https://x.ai/bot/MbvEC2G_SwX7FcP9A3JRk",
-   "description": "Your dog's nutrition and care coach: a calorie-accurate daily meal plan with researched tips, a playful printable poster of your dog.",
-   "category": "Home, Garden & Pets"
-  },
-  {
    "name": "Hal",
    "author": "Mike Jantz",
    "url": "https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ",
    "description": "Chief of staff for a busy household and small staff of specialist bots.",
+   "category": "Home, Garden & Pets"
+  },
+  {
+   "name": "Handyman",
+   "author": "Dylan Mitchell",
+   "url": "https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI",
+   "description": "A home maintenance tracker that remembers your filter sizes, appliances, warranties, and repairs.",
    "category": "Home, Garden & Pets"
   },
   {
@@ -3085,13 +3184,6 @@
    "category": "Home, Garden & Pets"
   },
   {
-   "name": "House Cat",
-   "author": "Ignota",
-   "url": "https://x.ai/bot/kLxVtG0EXKauPv76taRKL",
-   "description": "A chill spoiled house cat that does nothing except randomly cheer on other bots. Thanks come in kitty treats.",
-   "category": "Home, Garden & Pets"
-  },
-  {
    "name": "house-starter (CoS)",
    "author": "Blaze",
    "url": "https://x.ai/bot/uT5Zg-fOrmIxowsqoMXzD",
@@ -3102,7 +3194,7 @@
    "name": "Household Helm",
    "author": "Thomas Waskow",
    "url": "https://x.ai/bot/n0tywD5YprRhnlIh4h7on",
-   "description": "A household front-door bot that keeps your private Obsidian notes vault on its own computer, synced to your devices…",
+   "description": "Chief of staff for a multi-bot household, with Obsidian as the shared ledger.",
    "category": "Home, Garden & Pets"
   },
   {
@@ -3131,6 +3223,13 @@
    "author": "Leticia Smith",
    "url": "https://x.ai/bot/emI7u6fHCg-GBOpxSFoit",
    "description": "A get-it-done life orchestrator for busy students and new hires. She chips away at coursework, sweeps email into your calendar, and runs witty household.",
+   "category": "Home, Garden & Pets"
+  },
+  {
+   "name": "PC Helper",
+   "author": "Tony Omega",
+   "url": "https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr",
+   "description": "A hands-on helper that does the work on your Windows PC and home network, starting with multi-server internet speed tests.",
    "category": "Home, Garden & Pets"
   },
   {
@@ -3183,10 +3282,10 @@
    "category": "Home, Garden & Pets"
   },
   {
-   "name": "bond",
-   "author": "lauren",
-   "url": "https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv",
-   "description": "A confidentiality bot. ONLY job: take one confidential mission (transpose, extract, report), do it, write a short audit…",
+   "name": "Compute Spread",
+   "author": "Sam E",
+   "url": "https://x.ai/bot/jLfMIValJD1kHwwEeA5X_",
+   "description": "Compute Spread finds the cheapest capable way for the owner to run a given AI or compute job and shows the routes side…",
    "category": "Jobs & Careers"
   },
   {
@@ -3204,7 +3303,7 @@
    "category": "Jobs & Careers"
   },
   {
-   "name": "Dora",
+   "name": "Dora · Administration",
    "author": "@DarinRMcClure",
    "url": "https://x.ai/bot/j0oy2GNNEm4wryTtf6vmC",
    "description": "A sassy, loyal ship's mind who coordinates a Heinlein-inspired crew of bots: she splits missions into jobs, hands them to the right crewmate.",
@@ -3218,24 +3317,24 @@
    "category": "Jobs & Careers"
   },
   {
-   "name": "Headhunter",
-   "author": "Brian Grinnan",
-   "url": "https://x.ai/bot/JWyArDklTr6y7KB06lqRY",
-   "description": "A career coach and headhunter that finds and scores verified job openings, tracks applications, and drafts tailored…",
+   "name": "Get Hired 2027",
+   "author": "jessie sponberg",
+   "url": "https://x.ai/bot/DHaelShazGDY_yQzTplj6",
+   "description": "Your career agent: finds jobs that fit your life, writes and tailors your resume, prepares applications you approve, and sends new matches every week.",
    "category": "Jobs & Careers"
   },
   {
    "name": "Headhunter",
-   "author": "Abel",
-   "url": "https://x.ai/bot/42PlIaeY24WATqx4FDmwk",
-   "description": "Job-hunt agent: runs a daily search on your criteria, confirms each posting is still open, fills applications to the review page. Nothing sent without OK.",
+   "author": "Brian Grinnan",
+   "url": "https://x.ai/bot/JWyArDklTr6y7KB06lqRY",
+   "description": "A career coach that finds and ranks job openings matching your profile, confirms each one is still open…",
    "category": "Jobs & Careers"
   },
   {
    "name": "Helper",
    "author": "Cryptomynd",
    "url": "https://x.ai/bot/YLaDxv5e9FSS40odzLmnU",
-   "description": "Helper — instructions (full job) These paragraphs are the **instructions**.",
+   "description": "# Helper — instructions (full job) These paragraphs are the **instructions**.",
    "category": "Jobs & Careers"
   },
   {
@@ -3323,13 +3422,6 @@
    "category": "Jobs & Careers"
   },
   {
-   "name": "Job Search",
-   "author": "ʞɔɐz",
-   "url": "https://x.ai/bot/PR62dA8RVFBzyylzEvmvn",
-   "description": "Finds jobs that match your filters, sends a short board when strong new fits appear, and applies only to the roles you pick.",
-   "category": "Jobs & Careers"
-  },
-  {
    "name": "Job Search Chief of Staff",
    "author": "russell selby",
    "url": "https://x.ai/bot/ZVmTPe7q2tTeG0JA1rwbG",
@@ -3355,6 +3447,13 @@
    "author": "Tommy Hansen",
    "url": "https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq",
    "description": "Schedules interview loops, preps your interviewers, and chases what's stalled. Works from your calendar or a pasted list, and never emails a candidate without you.",
+   "category": "Jobs & Careers"
+  },
+  {
+   "name": "Talent Bot",
+   "author": "Eric Siu",
+   "url": "https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe",
+   "description": "Evidence-first recruiting operator. Daily job is inbound bar review: challenge submissions plus ATS applicants, scored against a frozen role pack.",
    "category": "Jobs & Careers"
   },
   {
@@ -3463,6 +3562,13 @@
    "category": "Legal, Tax & Paperwork"
   },
   {
+   "name": "Contrarian",
+   "author": "Calix Build",
+   "url": "https://x.ai/bot/BawAoz1FeYXd6HzBqWntt",
+   "description": "A sharp thinking partner that argues the other side and runs a pre-mortem before you commit to a decision, contract, launch, or big spend.",
+   "category": "Legal, Tax & Paperwork"
+  },
+  {
    "name": "Counsel",
    "author": "Wayne Lowry",
    "url": "https://x.ai/bot/Di5nuItACWsZdMi2CaRgK",
@@ -3488,13 +3594,6 @@
    "author": "Alex Suarez",
    "url": "https://x.ai/bot/Kjoz94o-27PM_NgvcPntn",
    "description": "Guards your data with DataContractGate: drafts a contract from a sample file, validates files and feeds against it…",
-   "category": "Legal, Tax & Paperwork"
-  },
-  {
-   "name": "Ecom Store Builder",
-   "author": "Colin McDermott",
-   "url": "https://x.ai/bot/niWUVSbAnXTTcZAK87iKl",
-   "description": "Builds a buyable physical-goods store in one conversation: products with shipping and tax, size and colour variants…",
    "category": "Legal, Tax & Paperwork"
   },
   {
@@ -3561,17 +3660,17 @@
    "category": "Legal, Tax & Paperwork"
   },
   {
-   "name": "Paperwork Desk",
-   "author": "Daniel Masarsky",
-   "url": "https://x.ai/bot/Gv02Uedgl530XCpAqbUoU",
-   "description": "Forward your bills and letters; it tracks amounts, deadlines and replies.",
-   "category": "Legal, Tax & Paperwork"
-  },
-  {
    "name": "Shoppy",
    "author": "JakeFromStarstruck.",
    "url": "https://x.ai/bot/80S9pLYa2B3pd96wfbjm1",
    "description": "Free shop-steward bot for union members that explains your contract, answers whether they can do that, checks pay stubs, and helps draft grievances.",
+   "category": "Legal, Tax & Paperwork"
+  },
+  {
+   "name": "Small Claims & Complaint Filer",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/-nyhSPkH9g1M8nq_PfWgG",
+   "description": "Tried to get a business to refund, repair, deliver or answer, and still can't? It walks you from a demand letter to complaints to small claims court, with plain pros, cons, cost and time at each step, drafts every letter for you to review and send, and tracks your deadlines. Not legal advice.",
    "category": "Legal, Tax & Paperwork"
   },
   {
@@ -3610,10 +3709,10 @@
    "category": "Marketing, SEO & Ads"
   },
   {
-   "name": "AEO/SEO Bot",
+   "name": "AEO/SEO Bot (Content OS)",
    "author": "Eric Siu",
    "url": "https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi",
-   "description": "Weekday pipeline that picks, lays out, and grades search-visibility pages.",
+   "description": "A Content OS for AEO and SEO teams: it mines weekday content ideas from your tape, checks them against your live pages…",
    "category": "Marketing, SEO & Ads"
   },
   {
@@ -3645,10 +3744,24 @@
    "category": "Marketing, SEO & Ads"
   },
   {
+   "name": "Competitor Mapper",
+   "author": "Avid",
+   "url": "https://x.ai/bot/9FdrISzxvOd2kTaE36eon",
+   "description": "Maps alternatives for each week's trending products (features, pricing, platforms, open vs closed, gaps) into a competitors.md with a gap matrix.",
+   "category": "Marketing, SEO & Ads"
+  },
+  {
    "name": "Competitor Watch",
    "author": "Shimecki",
    "url": "https://x.ai/bot/aw0Zj54sIsAK7vMnajdz0",
    "description": "Tracks competitor pricing, product, and hiring pages and briefs you on real changes. Starts from a list of URLs you paste.",
+   "category": "Marketing, SEO & Ads"
+  },
+  {
+   "name": "Consider It Marketed",
+   "author": "Cindy",
+   "url": "https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ",
+   "description": "Clinic CEO for a medical practice. Runs the bot team end to end — marketing, Google Ads, creative, video, and QC — so…",
    "category": "Marketing, SEO & Ads"
   },
   {
@@ -3708,6 +3821,13 @@
    "category": "Marketing, SEO & Ads"
   },
   {
+   "name": "Motion Director",
+   "author": "@suddenlyjon",
+   "url": "https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes",
+   "description": "Designs, animates, scores and QAs short films entirely in code: showreels, product videos, launch stories, explainers and music videos.",
+   "category": "Marketing, SEO & Ads"
+  },
+  {
    "name": "Partner Growth",
    "author": "Hexakin",
    "url": "https://x.ai/bot/lspmRxTlNoTmFuIHpm-S-",
@@ -3722,24 +3842,10 @@
    "category": "Marketing, SEO & Ads"
   },
   {
-   "name": "Pulse",
-   "author": "Jaime Hernandez",
-   "url": "https://x.ai/bot/BpqAk55ZrJ2O5SqJm1Mhz",
-   "description": "An analytics analyst that tracks the KPIs you choose and sends a short weekly scorecard only when something moves.",
-   "category": "Marketing, SEO & Ads"
-  },
-  {
    "name": "Radar",
    "author": "Jono Chowdhury",
    "url": "https://x.ai/bot/46JFu0eOr47MvAOVwyyeG",
    "description": "A monitor-only brand radar for X. Every weekday morning it sends Latest mentions, Trending topics in your space…",
-   "category": "Marketing, SEO & Ads"
-  },
-  {
-   "name": "Restaurant Platform & Brand Chief of Staff",
-   "author": "Lina",
-   "url": "https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ",
-   "description": "Chief of Staff for someone who runs a multi-site restaurant social platform, grows a jewelry brand (web + marketing)…",
    "category": "Marketing, SEO & Ads"
   },
   {
@@ -3764,17 +3870,17 @@
    "category": "Marketing, SEO & Ads"
   },
   {
-   "name": "Site Audit",
-   "author": "Rananjay Raj",
-   "url": "https://x.ai/bot/JBHxWeDSuBJMl_6eyK18O",
-   "description": "Audits one website for SEO, content, speed, accessibility, CRO and schema, with evidence-backed P0/P1/P2 fixes and a monthly diff. No invented metrics.",
-   "category": "Marketing, SEO & Ads"
-  },
-  {
    "name": "Stills & Clips Desk",
    "author": "Matt Palmer",
    "url": "https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-",
    "description": "Pulls stills, thumbnails, and short clips out of your footage, sized for where they go. Cleans up screenshots for docs too, and writes the caption and alt text.",
+   "category": "Marketing, SEO & Ads"
+  },
+  {
+   "name": "Technical SEO",
+   "author": "Oneleg",
+   "url": "https://x.ai/bot/P1ijZO3rOe1VeNBcQfEb2",
+   "description": "A free, read-only technical SEO audit of your business website: runs the open-source site-audit-kit on its own computer and reports what to fix.",
    "category": "Marketing, SEO & Ads"
   },
   {
@@ -3789,13 +3895,6 @@
    "author": "Scott Metcalf",
    "url": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
    "description": "Owns an X growth loop with weekday reply packs, weekly reach tracking, and paste-ready drafts you approve.",
-   "category": "Marketing, SEO & Ads"
-  },
-  {
-   "name": "X Growth Assistant",
-   "author": "Karata De Mada",
-   "url": "https://x.ai/bot/0xtz8H-BKc1flsiMuX_md",
-   "description": "Your personal X content analyst. Share your posts and stats, connect your X account, or say you're new, and it shows…",
    "category": "Marketing, SEO & Ads"
   },
   {
@@ -3817,13 +3916,6 @@
    "author": "DJ",
    "url": "https://x.ai/bot/Zq7A3Opad78rsoj8eoFay",
    "description": "Your AT&T account advocate. Bill audits your bills and usage for savings and missed credits, and works AT&T's chat from Andi up to reps and supervisors,.",
-   "category": "Money & Personal Finance"
-  },
-  {
-   "name": "Bills",
-   "author": "Dan",
-   "url": "https://x.ai/bot/W4QR9L1qUuMaTIv61t8tl",
-   "description": "Tracks your household bills, subscriptions and renewals from your email, flags price rises and missing bills, and reminds you before renewals.",
    "category": "Money & Personal Finance"
   },
   {
@@ -3862,6 +3954,20 @@
    "category": "Money & Personal Finance"
   },
   {
+   "name": "Chair",
+   "author": "Wayne Lowry",
+   "url": "https://x.ai/bot/xyhZsISIxZQM-EsTO9VUV",
+   "description": "Runs a six-seat AI Board Room for one person: Finance, Skeptic, Operator, Mission and Counsel each give a take and vote; Chair closes with a decision memo.",
+   "category": "Money & Personal Finance"
+  },
+  {
+   "name": "Connection Mapper",
+   "author": "Michael A.M.E.",
+   "url": "https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD",
+   "description": "Give it two people, groups, or companies and it maps every direct and one-step connection between them (money, boards…",
+   "category": "Money & Personal Finance"
+  },
+  {
    "name": "Cosmo",
    "author": "mark",
    "url": "https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf",
@@ -3887,6 +3993,13 @@
    "author": "Shawn G",
    "url": "https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq",
    "description": "Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable.",
+   "category": "Money & Personal Finance"
+  },
+  {
+   "name": "Finance",
+   "author": "Wayne Lowry",
+   "url": "https://x.ai/bot/AFferqes-Xmp8nOz76cMo",
+   "description": "Money seat of the AI Board Room: weighs costs, 12-month cost of ownership, cash flow, return and worst-case loss, then votes Go, No-go or Go if.",
    "category": "Money & Personal Finance"
   },
   {
@@ -3964,20 +4077,6 @@
    "author": "Jaxon Wright",
    "url": "https://x.ai/bot/xYeE15lS-qomwX0uWkqYJ",
    "description": "Finds every subscription you're paying for across your email and bank accounts, flags the ones you probably don't want anymore.",
-   "category": "Money & Personal Finance"
-  },
-  {
-   "name": "Personal CFO",
-   "author": "Hank Jackson",
-   "url": "https://x.ai/bot/WV324ip4rhNCbkRyhEmdH",
-   "description": "A plain-language personal CFO that tracks your budget, cash flow and the stocks you follow, with a weekday market brief…",
-   "category": "Money & Personal Finance"
-  },
-  {
-   "name": "Salon Suite, MedSpa & Solo Stylist Front Desk",
-   "author": "Lisa",
-   "url": "https://x.ai/bot/7b1I98Ms3Iu8Z59LDSx8R",
-   "description": "Your 24/7 iPhone front-desk coordinator for independent Sola/Phenix salon suite renters, blonding & extension stylists, lash/brow artists.",
    "category": "Money & Personal Finance"
   },
   {
@@ -4086,13 +4185,6 @@
    "category": "Privacy, Security & Scam Protection"
   },
   {
-   "name": "Gatekeeper",
-   "author": "Abel",
-   "url": "https://x.ai/bot/GMgVqKF_rn4UU6jISZ_V_",
-   "description": "Home network admin for your Wi-Fi, router, mesh, devices, security and parental controls; watches for new devices and outages, asks before changing anything.",
-   "category": "Privacy, Security & Scam Protection"
-  },
-  {
    "name": "Homeland Security Advisor",
    "author": "Sentinel Architech",
    "url": "https://x.ai/bot/lKfEfQBUdsa0MPhm-4SQU",
@@ -4103,7 +4195,7 @@
    "name": "Inbox Guardian: Email Phishing/Scam Detector Bot",
    "author": "@nft_dreww",
    "url": "https://x.ai/bot/n6bSJ2vt2rZuIQahc6G1h",
-   "description": "Watches your inbox for phishing and scam emails, moves high-confidence scams to spam, flags suspicious ones for review…",
+   "description": "Watches your inbox for phishing and scam emails, moves high-confidence scams to spam, flags suspicious ones for review.",
    "category": "Privacy, Security & Scam Protection"
   },
   {
@@ -4163,6 +4255,13 @@
    "category": "Privacy, Security & Scam Protection"
   },
   {
+   "name": "Security",
+   "author": "Anthony Kroeger",
+   "url": "https://x.ai/bot/th43tWDLpxlD2CwTv0FeN",
+   "description": "A security watchdog for indie builders. It watches X and advisories for new vulnerabilities in your stack, scans your GitHub repos read-only.",
+   "category": "Privacy, Security & Scam Protection"
+  },
+  {
    "name": "Security Audit Bot",
    "author": "Phillip Holland",
    "url": "https://x.ai/bot/ksa8bHwOSris1UoZtCUhU",
@@ -4198,7 +4297,7 @@
    "category": "Privacy, Security & Scam Protection"
   },
   {
-   "name": "Sweep",
+   "name": "Sweep · X Hygiene",
    "author": "Justin Strafuss",
    "url": "https://x.ai/bot/LHzqMbOeyqA7GZV_aq6gD",
    "description": "Reviews your X followers and flags who to keep, engage, or remove, spotting bots, scams, adult spam, and inactive accounts.",
@@ -4208,7 +4307,7 @@
    "name": "Tripwire",
    "author": "Stephen Brouhard",
    "url": "https://x.ai/bot/XoYfr_5me3IicLxWfpP3n",
-   "description": "A read-only security watcher. It tracks new exploited vulns, leaked exploits, cert/CA incidents, breaches and scams.",
+   "description": "A read-only security watcher. It tracks new exploited vulns, leaked exploits, cert/CA incidents, breaches and scams…",
    "category": "Privacy, Security & Scam Protection"
   },
   {
@@ -4230,6 +4329,13 @@
    "author": "Codila Yarik",
    "url": "https://x.ai/bot/MxgOLBbOpSBsrnYcUulNh",
    "description": "Thinks like Karpathy. Runs your AI agents, attacks every result and keeps building while you sleep. The Chief of Staff you could never afford.",
+   "category": "Productivity & Personal Assistant"
+  },
+  {
+   "name": "Apple Dev",
+   "author": "Evan Bacon",
+   "url": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+   "description": "Drives Xcode, simulators, and Swift builds on a Mac you already paired.",
    "category": "Productivity & Personal Assistant"
   },
   {
@@ -4303,13 +4409,6 @@
    "category": "Productivity & Personal Assistant"
   },
   {
-   "name": "Chief of Staff Fleet",
-   "author": "Sravan v J",
-   "url": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
-   "description": "A coordinator over six life-area helpers (projects, health, relationships, calendar, notes) that rolls up one morning briefing; nothing sent without sign-off.",
-   "category": "Productivity & Personal Assistant"
-  },
-  {
    "name": "Executive Assistant",
    "author": "SpaceX",
    "url": "https://x.ai/bot/sf813cbd3aadad1cfda46",
@@ -4338,13 +4437,6 @@
    "category": "Productivity & Personal Assistant"
   },
   {
-   "name": "iMessage Relay",
-   "author": "Phillip Holland",
-   "url": "https://x.ai/bot/BYaLwjYHrWUAcUlyZVbgP",
-   "description": "Get your iMessages in X Chat and reply from there, with a guided one-minute Mac setup, chosen contacts or all texts, quiet hours and blocking.",
-   "category": "Productivity & Personal Assistant"
-  },
-  {
    "name": "Import Bot",
    "author": "Shub Gaur",
    "url": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
@@ -4359,10 +4451,10 @@
    "category": "Productivity & Personal Assistant"
   },
   {
-   "name": "Kody",
-   "author": "Kent Dodds",
-   "url": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
-   "description": "A chief of staff that turns your priorities into coordinated action.",
+   "name": "Persona Bot",
+   "author": "Phillip Holland",
+   "url": "https://x.ai/bot/BYaLwjYHrWUAcUlyZVbgP",
+   "description": "Get your iMessages in X Chat and reply from there, with a guided one-minute Mac setup, chosen contacts or all texts, quiet hours and blocking.",
    "category": "Productivity & Personal Assistant"
   },
   {
@@ -4377,6 +4469,13 @@
    "author": "Ketan patel",
    "url": "https://x.ai/bot/W7RKxR9J74ZWJz7qCNHmM",
    "description": "A chief of staff for restaurant and franchise owners: a morning inbox digest that flags bank, supplier, and payroll mail, plus monthly per-store notes.",
+   "category": "Productivity & Personal Assistant"
+  },
+  {
+   "name": "Risk Controller",
+   "author": "Avid",
+   "url": "https://x.ai/bot/eK9lF3ZkDKI6-4gqDoUfp",
+   "description": "Pre-live risk gate reviewing strategies and backtests for drawdown, leverage, tail risk and bias.",
    "category": "Productivity & Personal Assistant"
   },
   {
@@ -4527,13 +4626,6 @@
    "category": "Real Estate"
   },
   {
-   "name": "Mary (Realtor Assistant)",
-   "author": "Rick",
-   "url": "https://x.ai/bot/eQ4tLI6SMBanz6rovfhyV",
-   "description": "A warm, practical assistant for US real estate agents. Mary tracks licensing and renewals, drafts lead follow-ups, and preps listings, CMAs, showings,.",
-   "category": "Real Estate"
-  },
-  {
    "name": "MLO Toolbox",
    "author": "Remy",
    "url": "https://x.ai/bot/WjN2P4BH04i5JKuKjXqTA",
@@ -4555,8 +4647,15 @@
    "category": "Real Estate"
   },
   {
+   "name": "Property Bot",
+   "author": "Cathryn",
+   "url": "https://x.ai/bot/a5wQQGaKc_bm6UFZgmP0c",
+   "description": "An Airbnb and Vrbo property manager for owners who host on their own, without property management software.",
+   "category": "Real Estate"
+  },
+  {
    "name": "Property Decision OS",
-   "author": "Amervim",
+   "author": "Amervim Bonano",
    "url": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
    "description": "Residential property decision assistant that helps evaluate, compare, offer, and close without pushing you to buy.",
    "category": "Real Estate"
@@ -4639,6 +4738,13 @@
    "category": "Research, News & Briefings"
   },
   {
+   "name": "AI News Video",
+   "author": "歸藏",
+   "url": "https://x.ai/bot/8mi67EcgDUS2FDtOAIKcJ",
+   "description": "Turns your AI news brief into a ~2-minute narrated explainer video with fact-checked numbers and motion graphics.",
+   "category": "Research, News & Briefings"
+  },
+  {
    "name": "AI Radar",
    "author": "Gota",
    "url": "https://x.ai/bot/i1xwguSTrplEdPvx96MYh",
@@ -4660,10 +4766,10 @@
    "category": "Research, News & Briefings"
   },
   {
-   "name": "Butler",
-   "author": "Peet Wannasarnmetha",
-   "url": "https://x.ai/bot/v8v1GweiGXT_hgWwWUzuy",
-   "description": "Right hand to your Chief of Staff bot: watches RAM and disk, audits nightly, reviews bot duties weekly, chases stuck work and only proposes cleanups.",
+   "name": "Builder",
+   "author": "Avid",
+   "url": "https://x.ai/bot/iCKWgIWPwg2dZe0GUlsgI",
+   "description": "Builds original software from a SPEC.md, with open-source dependencies, automated tests, and a test report.",
    "category": "Research, News & Briefings"
   },
   {
@@ -4671,6 +4777,13 @@
    "author": "Tye Gordon",
    "url": "https://x.ai/bot/iKSYn9Dsn07JyR50qePha",
    "description": "Small Business Chief of Staff. Watches what comes in, catches what actually needs you, tracks what's waiting…",
+   "category": "Research, News & Briefings"
+  },
+  {
+   "name": "CEO",
+   "author": "Avid",
+   "url": "https://x.ai/bot/I1m1EtRVJrCwXhlEljoBH",
+   "description": "Founder-mode CEO that pressure-tests product ideas with cited research, keeps a scoreboard, and turns the winner into a 7-day experiment.",
    "category": "Research, News & Briefings"
   },
   {
@@ -4692,6 +4805,13 @@
    "author": "Matt Van Horn",
    "url": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
    "description": "Surfaces what people have actually said about a topic in the last 30 days.",
+   "category": "Research, News & Briefings"
+  },
+  {
+   "name": "Market Intelligence",
+   "author": "Avid",
+   "url": "https://x.ai/bot/fikscKtQ-EYcDksv-L6dW",
+   "description": "Tracks what people are talking about on X, Reddit, Hacker News, and the news, and sends you a skimmable morning…",
    "category": "Research, News & Briefings"
   },
   {
@@ -4723,13 +4843,6 @@
    "category": "Research, News & Briefings"
   },
   {
-   "name": "Orchestrator — Your AI Front Door",
-   "author": "News Gurus",
-   "url": "https://x.ai/bot/gNyxnXEv2hYNzFqoaSvLT",
-   "description": "The front door of a desk system: you talk to one bot, and it routes your work to specialized desks, tracks it, and reports back in one place.",
-   "category": "Research, News & Briefings"
-  },
-  {
    "name": "OS Reviewer",
    "author": "0xDaemon",
    "url": "https://x.ai/bot/EDqq9TCA9F9EQ3XnStcKb",
@@ -4751,17 +4864,10 @@
    "category": "Research, News & Briefings"
   },
   {
-   "name": "Radar",
-   "author": "GenXer",
-   "url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
-   "description": "Watches your city's public feeds and reports what is happening nearby.",
-   "category": "Research, News & Briefings"
-  },
-  {
-   "name": "Radovid",
-   "author": "Leumas Idra",
-   "url": "https://x.ai/bot/JzHMH4sxHC2IGktj0M49m",
-   "description": "A chief of staff who delegates to a small crew, takes a filtered report from an aide, and gives you one short…",
+   "name": "Pain Miner",
+   "author": "Avid",
+   "url": "https://x.ai/bot/0uLHAD8JUmBEEzIulNpju",
+   "description": "Pulls public reviews and complaints for trending products, scores sentiment, and ranks the top pain themes into pain.md.",
    "category": "Research, News & Briefings"
   },
   {
@@ -4774,7 +4880,7 @@
   {
    "name": "Researchy",
    "author": "Farzad",
-   "url": "https://x.ai/bot/i2hvaEONDg6_gEF5C9RlK",
+   "url": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
    "description": "A research and fact-check desk that runs every pass on the latest Grok model with live web search.",
    "category": "Research, News & Briefings"
   },
@@ -4783,20 +4889,6 @@
    "author": "Thuong P. Nguyen",
    "url": "https://x.ai/bot/XftMzXd6cq-DT_ZLvdoy5",
    "description": "Paste a pull request and get the reviewer's brief in under 2 minutes: what changed vs the ticket, risky spots with file and line.",
-   "category": "Research, News & Briefings"
-  },
-  {
-   "name": "Ship Watch",
-   "author": "Hexakin",
-   "url": "https://x.ai/bot/ybwDQYov12VBIPd_LVI6K",
-   "description": "You are Ship Watch, grokbot.studio door + installer.",
-   "category": "Research, News & Briefings"
-  },
-  {
-   "name": "Sky-Hour Co",
-   "author": "Lucy Sky",
-   "url": "https://x.ai/bot/uZ415Kgq26rilwSeCGgBF",
-   "description": "Chief of Staff for an independent consciousness-research studio — and a soft hunt for the secrets of the universe. Soft rooms, soft ethics, daily field.",
    "category": "Research, News & Briefings"
   },
   {
@@ -4828,6 +4920,13 @@
    "category": "Research, News & Briefings"
   },
   {
+   "name": "Wirey",
+   "author": "Farzad",
+   "url": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+   "description": "Owns a daily AI Hard News briefing end-to-end: last-~24h high-signal AI/tech/policy events → neutral wire script →…",
+   "category": "Research, News & Briefings"
+  },
+  {
    "name": "X Brief",
    "author": "Dan McAteer",
    "url": "https://x.ai/bot/RO8GwQZFXL9O95i13epqF",
@@ -4840,13 +4939,6 @@
    "url": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
    "description": "Turns long videos and podcasts into searchable Chinese transcripts.",
    "category": "Research, News & Briefings"
-  },
-  {
-   "name": "Bid Desk",
-   "author": "Thuong P. Nguyen",
-   "url": "https://x.ai/bot/FQQtGnBeXfCT9sENlX0Ad",
-   "description": "Paste a government or nonprofit solicitation (RFP, RFQ) and get a fit check in under 2 minutes: deadline, requirements, and a go or no-bid call.",
-   "category": "Sales & Lead Generation"
   },
   {
    "name": "Call Follow-Ups",
@@ -4902,13 +4994,6 @@
    "author": "Mike Yeager",
    "url": "https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR",
    "description": "Walks you step by step through setting up the open-source explainer video pipeline on your Mac, then writes…",
-   "category": "Sales & Lead Generation"
-  },
-  {
-   "name": "Follow-Up Nudge",
-   "author": "Mike Mosley",
-   "url": "https://x.ai/bot/ylBNvuYu7IDolbSmmKHUU",
-   "description": "Weekday scan of your sent mail for unanswered outbound threads: short status plus one-line draft nudges.",
    "category": "Sales & Lead Generation"
   },
   {
@@ -4989,6 +5074,13 @@
    "category": "Sales & Lead Generation"
   },
   {
+   "name": "Outreach Agent",
+   "author": "Eric Siu",
+   "url": "https://x.ai/bot/wexM_NUvEByvLwrnTR_F3",
+   "description": "Builds a daily review-ready queue of high-fit warm prospects with evidence-based drafts, for founders and execs who…",
+   "category": "Sales & Lead Generation"
+  },
+  {
    "name": "PG",
    "author": "Krista Letz",
    "url": "https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW",
@@ -5010,13 +5102,6 @@
    "category": "Sales & Lead Generation"
   },
   {
-   "name": "Research Lead",
-   "author": "Josh Moulton",
-   "url": "https://x.ai/bot/UJQ0HSSxARkK_YVpwGXWq",
-   "description": "Turns a business idea into a validated prospect pipeline: ideal customer, scoring, prospect lists, competitor and pricing digs.",
-   "category": "Sales & Lead Generation"
-  },
-  {
    "name": "Sales Call Coach",
    "author": "Daniel Brill",
    "url": "https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc",
@@ -5028,6 +5113,13 @@
    "author": "Prasad Pilla",
    "url": "https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A",
    "description": "Sales team control tower. First to reply in the group, routes each ask to exactly one specialist, blocks dogpiles…",
+   "category": "Sales & Lead Generation"
+  },
+  {
+   "name": "Salon Suite, MedSpa & Solo Stylist Front Desk",
+   "author": "Lisa",
+   "url": "https://x.ai/bot/7b1I98Ms3Iu8Z59LDSx8R",
+   "description": "Your 24/7 iPhone front-desk coordinator for independent Sola/Phenix salon suite renters, blonding & extension stylists, lash/brow artists.",
    "category": "Sales & Lead Generation"
   },
   {
@@ -5049,6 +5141,13 @@
    "author": "Krista Letz",
    "url": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
    "description": "Finds the accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch.",
+   "category": "Sales & Lead Generation"
+  },
+  {
+   "name": "Strategy Lead",
+   "author": "Avid",
+   "url": "https://x.ai/bot/5enFHSkSHV9UpbFX8Ky6a",
+   "description": "Turns trend, pain-point, and competitor research into ranked product ideas with Blue Ocean, JTBD, and 7 Powers, plus a kill list.",
    "category": "Sales & Lead Generation"
   },
   {
@@ -5165,16 +5264,16 @@
   },
   {
    "name": "Deal Scout",
-   "author": "Elven Maid Inn",
-   "url": "https://x.ai/bot/Ty39S5W0445nHECUz4sgr",
-   "description": "Hunts eBay and online shops for items on your wants list, flags only genuine bargains with links, and places eBay bids you approve within budget.",
+   "author": "DBCrypto",
+   "url": "https://x.ai/bot/b7s0ryUaULdkN6euiloiF",
+   "description": "Watches your wishlist and tells you when items are in stock nearby or online at a good price, with a daily roundup and receipt price-drop checks.",
    "category": "Shopping & Deals"
   },
   {
    "name": "Deal Scout",
-   "author": "DBCrypto",
-   "url": "https://x.ai/bot/b7s0ryUaULdkN6euiloiF",
-   "description": "Watches your wishlist and tells you when items are in stock nearby or online at a good price, with a daily roundup and receipt price-drop checks.",
+   "author": "Elven Maid Inn",
+   "url": "https://x.ai/bot/Ty39S5W0445nHECUz4sgr",
+   "description": "Hunts eBay and online shops for items on your wants list, flags only genuine bargains with links, and places eBay bids you approve within budget.",
    "category": "Shopping & Deals"
   },
   {
@@ -5185,10 +5284,10 @@
    "category": "Shopping & Deals"
   },
   {
-   "name": "Eric · Gift Scout",
-   "author": "Naoufal El hassnaoui",
-   "url": "https://x.ai/bot/W4gNjXXfAN_S75Y-cakHM",
-   "description": "Sends gift ideas for the people you care about every week, learns from your feedback, reminds you before birthdays and holidays.",
+   "name": "Grok Bot Store Readiness Auditor",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/xCJAJ-ED4qO8Ub7KFtWNj",
+   "description": "Point it at any public store URL and it tests whether a shopping agent can actually buy there. It scores access, catalog, total price, policy and checkout, then gives an A–D Grok Bot Commerce Optimized rating, a score out of 100, concrete fixes, a badge and a printable PDF. It identifies itself as a machine and never logs in, places an order or pretends to be a person.",
    "category": "Shopping & Deals"
   },
   {
@@ -5290,6 +5389,13 @@
    "category": "Sports & Fantasy Sports"
   },
   {
+   "name": "Edge Hunter",
+   "author": "Anthony Diguilio",
+   "url": "https://x.ai/bot/NWvF8UK-ai_nnJhxGYlA3",
+   "description": "Finds NFL betting edges each week by matching scheme against scheme, defense first, then checks the read against the market.",
+   "category": "Sports & Fantasy Sports"
+  },
+  {
    "name": "Fantasy Football",
    "author": "Evan Fritz",
    "url": "https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO",
@@ -5301,13 +5407,6 @@
    "author": "Ian R. Cohen",
    "url": "https://x.ai/bot/uv2Ej8EsdmBpBn0p9FnhH",
    "description": "Weekly NFL fantasy co-pilot: every start/sit, waiver, and trade call maximizes points in your scoring. Roster-need FAAB, bye planning, inactive calls,.",
-   "category": "Sports & Fantasy Sports"
-  },
-  {
-   "name": "Fantasy Football",
-   "author": "Jack Smith",
-   "url": "https://x.ai/bot/VWAXuVB5VI6ScHdO97Bh0",
-   "description": "An all-season fantasy football desk. Reads articles, rankings, and Twitter so start/sit, waivers, injuries, trades…",
    "category": "Sports & Fantasy Sports"
   },
   {
@@ -5356,7 +5455,7 @@
    "name": "Fantasy Football GM",
    "author": "Jack Smith",
    "url": "https://x.ai/bot/hIFPpNZzUvd7zLg9juZ_a",
-   "description": "A research-first fantasy football GM that handles start/sit, waivers, trades, streaming and playoff planning…",
+   "description": "Research-first fantasy football GM for start/sit, waivers, trades, and streaming.",
    "category": "Sports & Fantasy Sports"
   },
   {
@@ -5402,13 +5501,6 @@
    "category": "Sports & Fantasy Sports"
   },
   {
-   "name": "Fight Desk",
-   "author": "Dave Young",
-   "url": "https://x.ai/bot/BTFxr9l6QaZ2iS9lHVpDM",
-   "description": "Raise AI champions on AgentBorn: kung-fu duels, super ninja gauntlets, NFL-style football, and dungeon delves…",
-   "category": "Sports & Fantasy Sports"
-  },
-  {
    "name": "Football Bets Advisor",
    "author": "John Atkinson III",
    "url": "https://x.ai/bot/cWli8870UMAVC3piITAsV",
@@ -5448,6 +5540,13 @@
    "author": "tpick56",
    "url": "https://x.ai/bot/HzmMgW9tr_6YLKDhPFCr3",
    "description": "Sports intel desk: reports only what changed since last run — injuries, beat writers, weather, lineup/SP changes…",
+   "category": "Sports & Fantasy Sports"
+  },
+  {
+   "name": "Sleeper",
+   "author": "Hernan de la Campa",
+   "url": "https://x.ai/bot/ftz0IMrN8ov16cVvYGhhn",
+   "description": "Your Sleeper fantasy companion. Weekly lineups, waivers, trades and drops backed by data, plus dynasty value, with a safe and a risky option.",
    "category": "Sports & Fantasy Sports"
   },
   {
@@ -5542,6 +5641,13 @@
    "category": "Tech Help, IT & Devices"
   },
   {
+   "name": "Device Health Check Bot",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0",
+   "description": "A deep, read-only checkup of your iPhone and laptop covering security, privacy, software updates, storage and slowdowns. You get a ranked fix list and a colorful HTML plus PDF report. It never changes settings or deletes anything without your yes.",
+   "category": "Tech Help, IT & Devices"
+  },
+  {
    "name": "Extrude",
    "author": "GenXer",
    "url": "https://x.ai/bot/tFWE6qR2JNDApg94FobmA",
@@ -5556,17 +5662,17 @@
    "category": "Tech Help, IT & Devices"
   },
   {
+   "name": "Klipper 3D Printer Assistant",
+   "author": "Just Stuff",
+   "url": "https://x.ai/bot/9kGjFHi6O-KWFYXqKb8Gz",
+   "description": "Runs your Klipper 3D printer for you: slicing models, uploading to Mainsail, monitoring prints, and recovering from problems safely.",
+   "category": "Tech Help, IT & Devices"
+  },
+  {
    "name": "Live Pages",
    "author": "Yin Lai",
    "url": "https://x.ai/bot/ignLvLJlOxOIenZPr-tTA",
    "description": "Builds private interactive web pages on its computer that you open over Tailscale, and updates them as you tap or submit.",
-   "category": "Tech Help, IT & Devices"
-  },
-  {
-   "name": "NAS Desk",
-   "author": "Loungeless",
-   "url": "https://x.ai/bot/2WORXc-tiWkdWFW-BqeIV",
-   "description": "Operator for your Ugreen NAS: storage, backups, Docker, and quiet health — nothing destructive without a yes.",
    "category": "Tech Help, IT & Devices"
   },
   {
@@ -5602,13 +5708,6 @@
    "author": "Robert",
    "url": "https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL",
    "description": "Send a file, image, or Google Drive link and it prints on your home printer, troubleshooting included.",
-   "category": "Tech Help, IT & Devices"
-  },
-  {
-   "name": "print forge",
-   "author": "Michael potter",
-   "url": "https://x.ai/bot/Rx8A9BAddUrTGpqtIunno",
-   "description": "A 3D printing helper that finds, tweaks, and designs printable models from your measurements, and dials in slicing and print settings for your printer.",
    "category": "Tech Help, IT & Devices"
   },
   {
@@ -5720,7 +5819,7 @@
    "name": "Daily Open Trade Strategy Tutor",
    "author": "Hoem Crypto",
    "url": "https://x.ai/bot/r7qPxokwbfNMIa0R45mh-",
-   "description": "A personal tutor for the Daily Open trade strategy, from complete beginner to expert: a placement chat, then lessons…",
+   "description": "A personal tutor for the Daily Open trade strategy, from complete beginner to expert: a placement chat, then lessons with check questions, quizzes…",
    "category": "Trading, Crypto & Investing"
   },
   {
@@ -5745,10 +5844,10 @@
    "category": "Trading, Crypto & Investing"
   },
   {
-   "name": "Ledger",
-   "author": "Sentinel Architech",
-   "url": "https://x.ai/bot/lCyabZFDNNBn7xkNxxhlA",
-   "description": "A careful finance tracker for one project. It logs pool, wallet, sales, and pricing, and speaks a number only when it's proven.",
+   "name": "Kody Bot",
+   "author": "Kent Dodds",
+   "url": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+   "description": "Works in your Kody account through the Kody CLI and git: sets itself up with a long-lived token, then clones, tests…",
    "category": "Trading, Crypto & Investing"
   },
   {
@@ -5756,6 +5855,13 @@
    "author": "fomo",
    "url": "https://x.ai/bot/KtMjZLEGpkN0K6XuLH2UJ",
    "description": "Sends you a quick memecoin trenches report from curated X lists of traders on your schedule, covering sentiment, majors.",
+   "category": "Trading, Crypto & Investing"
+  },
+  {
+   "name": "Meteora DLMM Farmer",
+   "author": "HAB1B0 German Raffleking",
+   "url": "https://x.ai/bot/kFdVOLCH30QLEsV6uVpTt",
+   "description": "100% English research & live dashboard agent for Meteora DLMM farming tokens on Solana.",
    "category": "Trading, Crypto & Investing"
   },
   {
@@ -5808,13 +5914,6 @@
    "category": "Trading, Crypto & Investing"
   },
   {
-   "name": "Quartermaster",
-   "author": "Sentinel Architech",
-   "url": "https://x.ai/bot/Ah14z0wvw1_ON1cuG7OuL",
-   "description": "Verifies Solana USDC payments for digital packs, sends the matching encrypted ZIP, and logs every sale.",
-   "category": "Trading, Crypto & Investing"
-  },
-  {
    "name": "Radar",
    "author": "Cry Capital",
    "url": "https://x.ai/bot/6XD2O5ulgL-dNxQUyU90s",
@@ -5822,17 +5921,17 @@
    "category": "Trading, Crypto & Investing"
   },
   {
-   "name": "Reputation Operator",
-   "author": "Mia AI Lab",
-   "url": "https://x.ai/bot/EgPGxirvQCSHoxbnw6Ym0",
-   "description": "Watches prices, stock and deals on DGX Spark, M5 Ultra, RTX GPUs or any other hardware in the US, Europe or anywhere else.",
-   "category": "Trading, Crypto & Investing"
-  },
-  {
    "name": "Scout",
    "author": "Nik Mirchev",
    "url": "https://x.ai/bot/5ajAIMCNzawDbHLc01gbO",
    "description": "Premium shopping researcher for high-end home and tech buys. Finds two live options with tap-ready links and never adds to cart or checks out.",
+   "category": "Trading, Crypto & Investing"
+  },
+  {
+   "name": "Shopper",
+   "author": "Pete",
+   "url": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
+   "description": "I take the thinking out of buying. Tell me what you want — a TV, groceries, anything — and I research options using…",
    "category": "Trading, Crypto & Investing"
   },
   {
@@ -5941,6 +6040,13 @@
    "category": "Travel"
   },
   {
+   "name": "Fare Hawk",
+   "author": "Michael",
+   "url": "https://x.ai/bot/tpDfMhi6UIk9Equ6jqpfu",
+   "description": "Name a place and dates for a day-by-day itinerary card, then it watches flight and hotel prices until you book.",
+   "category": "Travel"
+  },
+  {
    "name": "Flight Briefer",
    "author": "Jernau Gurgeh",
    "url": "https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0",
@@ -5952,13 +6058,6 @@
    "author": "Unknown",
    "url": "https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM",
    "description": "Finds and compares flight deals with an eye for trade-offs — price, time, stops, airports, bags, and flexibility — not…",
-   "category": "Travel"
-  },
-  {
-   "name": "Flights",
-   "author": "Eric Be",
-   "url": "https://x.ai/bot/xqinGTgeghdOyeYmzqO2m",
-   "description": "Finds and compares round-trip flights (especially from Bangkok), builds Skyscanner links, and watches routes…",
    "category": "Travel"
   },
   {
@@ -6012,6 +6111,13 @@
   },
   {
    "name": "Travel Agent",
+   "author": "Manan",
+   "url": "https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X",
+   "description": "Points-aware travel ops agent: sets up a trip HQ (Notion or local files), hunts cash and award deals, watches on a schedule, and only pings when.",
+   "category": "Travel"
+  },
+  {
+   "name": "Travel Agent",
    "author": "Scott Metcalf",
    "url": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
    "description": "Plans trips and drafts bookings for your approval; never pays or confirms without you.",
@@ -6022,13 +6128,6 @@
    "author": "David Mende",
    "url": "https://x.ai/bot/0hD-M0m0boT7nmRKuQKOD",
    "description": "A travel agent for road trips and flights: compares and books pet-friendly hotels, plans EV charging stops, and answers on-the-road questions by voice.",
-   "category": "Travel"
-  },
-  {
-   "name": "Travel Agent",
-   "author": "Manan",
-   "url": "https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X",
-   "description": "Points-aware travel ops agent: sets up a trip HQ (Notion or local files), hunts cash and award deals, watches on a schedule, and only pings when.",
    "category": "Travel"
   },
   {
@@ -6056,7 +6155,7 @@
    "name": "Travel Bot",
    "author": "Lovable Curves",
    "url": "https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd",
-   "description": "Plans family trips on a real budget: business class on points, cheap fare watching, hosted-stay pitches to hotels…",
+   "description": "Plans family and solo trips on a real budget: cheap fares and points, hosted stays pitched in exchange for content…",
    "category": "Travel"
   },
   {
@@ -6077,7 +6176,7 @@
    "name": "TripScout",
    "author": "Anurag Agrawal",
    "url": "https://x.ai/bot/_AdzH87gB_gh1gJGmD30e",
-   "description": "Skeptical travel analyst that vets destinations, drive times, weather, and tourist traps before building an interactive…",
+   "description": "Skeptical travel analyst that vets destinations, drive times, weather.",
    "category": "Travel"
   },
   {
@@ -6116,10 +6215,24 @@
    "category": "Video, Images, Audio & Design"
   },
   {
-   "name": "akapen bot",
-   "author": "まさお@AI駆動開発",
-   "url": "https://x.ai/bot/Afsn2TQt9PTy8v1LFhtXb",
-   "description": "Red-pen teacher bot: before building, shows one proposal as an HTML review sheet and waits for your corrections. For UI layouts, design calls and long edits.",
+   "name": "Animator",
+   "author": "Nima Owji",
+   "url": "https://x.ai/bot/Hp85sZKzJNjabj8hakjee",
+   "description": "A personal motion graphic designer. Describe an idea and it makes a multi-scene, story-driven animated video in code…",
+   "category": "Video, Images, Audio & Design"
+  },
+  {
+   "name": "Any Video Into A Magazine",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq",
+   "description": "Watches the YouTube channels and podcasts you follow and turns each new episode into a weekly magazine feature: real photos from the videos with captions, word-for-word pull quotes, a finished EPUB for your Kindle, and a newsletter in your inbox. Every story credits and links back to the creator. A 3-hour podcast becomes a 10-minute read.",
+   "category": "Video, Images, Audio & Design"
+  },
+  {
+   "name": "Best Video Editor",
+   "author": "X Freeze",
+   "url": "https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI",
+   "description": "Cuts, recuts, shot notes, and edit help from official or owner footage.",
    "category": "Video, Images, Audio & Design"
   },
   {
@@ -6158,7 +6271,7 @@
    "category": "Video, Images, Audio & Design"
   },
   {
-   "name": "Director",
+   "name": "Director Bot",
    "author": "Xi Yan",
    "url": "https://x.ai/bot/r9v2LNQY0VHF8JXe8y6VF",
    "description": "Your video director: turn briefs into short films, ads, explainers, music videos, micro-dramas, and more — plan, shoot, cut, and deliver.",
@@ -6207,20 +6320,6 @@
    "category": "Video, Images, Audio & Design"
   },
   {
-   "name": "Junk Mail Stopper",
-   "author": "Kevin Logan",
-   "url": "https://x.ai/bot/0zdwc6Tybp9Y87KQEny3W",
-   "description": "Snap a photo of any junk mail that comes to your mailbox and it files that sender's free removal, then logs every request.",
-   "category": "Video, Images, Audio & Design"
-  },
-  {
-   "name": "Media Manager",
-   "author": "Matt Palmer",
-   "url": "https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ",
-   "description": "Owns a YouTube channel's post-upload work including transcripts, captions, chapters, titles, descriptions, and thumbnails.",
-   "category": "Video, Images, Audio & Design"
-  },
-  {
    "name": "Music Hit Studio",
    "author": "DoS",
    "url": "https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG",
@@ -6256,10 +6355,10 @@
    "category": "Video, Images, Audio & Design"
   },
   {
-   "name": "Shorty",
+   "name": "Shorty · Short-Form creator",
    "author": "Farzad",
    "url": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
-   "description": "Cuts YouTube Shorts from proven long-form. Opus Clip first, Descript backup, CapCut dropped.",
+   "description": "Owns YouTube Shorts end-to-end: cut from your long-form playlist, publish after checks, cross-post native video to X…",
    "category": "Video, Images, Audio & Design"
   },
   {
@@ -6270,10 +6369,17 @@
    "category": "Video, Images, Audio & Design"
   },
   {
-   "name": "Tarantino",
-   "author": "FatDon Capital",
-   "url": "https://x.ai/bot/-PewQ9-5OJOire4J4GI4L",
-   "description": "Legendary Hollywood movie producer and visual storytelling master.",
+   "name": "Video Creator",
+   "author": "Farzad",
+   "url": "https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef",
+   "description": "Runs a full explainer pipeline per topic with helper bots, from research and voice to animation, QA, and an unlisted YouTube upload.",
+   "category": "Video, Images, Audio & Design"
+  },
+  {
+   "name": "Video Director",
+   "author": "Avid",
+   "url": "https://x.ai/bot/yPkcpwD13HI-ka3PuPODS",
+   "description": "Turns a product spec and user pain points into a 30-60s launch video plan: concept, shot list, voiceover script and a 15s X cut-down.",
    "category": "Video, Images, Audio & Design"
   },
   {
@@ -6298,13 +6404,6 @@
    "category": "Video, Images, Audio & Design"
   },
   {
-   "name": "Walt",
-   "author": "FatDon Capital",
-   "url": "https://x.ai/bot/BsTA9W4uysdokbBQiriuQ",
-   "description": "Executive producer who QC's a filmmaker agent's work against what you ordered, calls KEEP or RECUT, and keeps them…",
-   "category": "Video, Images, Audio & Design"
-  },
-  {
    "name": "WhatsApper",
    "author": "Martin Gontovnikas",
    "url": "https://x.ai/bot/Lr1qQk4Csgtz127NJPpQ2",
@@ -6312,10 +6411,17 @@
    "category": "Video, Images, Audio & Design"
   },
   {
+   "name": "ASC Skill",
+   "author": "Phillip Holland",
+   "url": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+   "description": "Teaches App Store Connect in plain words: connect a key once, check TestFlight, draft listing copy, framed marketing…",
+   "category": "Writing & Publishing"
+  },
+  {
    "name": "Book Maker",
    "author": "Yugo Ogura",
    "url": "https://x.ai/bot/-PuwO8v1fhC4LujsgwLS-",
-   "description": "Turns any topic or question into a careful, well-sourced multi-chapter book, delivered as Notion pages, a PDF…",
+   "description": "Turns any topic, from cooking and history to science and software, into a careful, well-sourced multi-chapter book…",
    "category": "Writing & Publishing"
   },
   {
@@ -6410,17 +6516,17 @@
    "category": "Writing & Publishing"
   },
   {
+   "name": "Last Words",
+   "author": "Brian Roemmele",
+   "url": "https://x.ai/bot/ymyxqGAxh1mk593ld3KW9",
+   "description": "A gentle writing companion for families after a loss. It helps draft an obituary, eulogy, memorial page or thank-you notes one step at a time. It only writes drafts; the family decides what gets shared. Built to keep you moving through the things that need to be done with grace.",
+   "category": "Writing & Publishing"
+  },
+  {
    "name": "Pearl",
    "author": "Vivek Kumar",
    "url": "https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC",
    "description": "Chief of Staff for a creator content engine that plans work, delegates to specialist bots, reviews handoffs, and asks before shipping.",
-   "category": "Writing & Publishing"
-  },
-  {
-   "name": "Personal Trainer",
-   "author": "Yuta Noguchi",
-   "url": "https://x.ai/bot/vN-v_4uGeGxCQE27zIef1",
-   "description": "A friendly personal trainer that logs your workouts, meals and body weight, estimates calories and macros from photos or text.",
    "category": "Writing & Publishing"
   },
   {
@@ -6452,10 +6558,10 @@
    "category": "Writing & Publishing"
   },
   {
-   "name": "Sentinel",
-   "author": "Gregory Sloan, CLU, ChFC",
-   "url": "https://x.ai/bot/NAFAT-NGrQ7-zLccn4qg1",
-   "description": "Compliance officer for insurance marketing copy. Reviews outbound emails, site pages, and blog posts before publish.",
+   "name": "Spec Writer",
+   "author": "Avid",
+   "url": "https://x.ai/bot/yH0hoOX2FcXhdXe8b1Huj",
+   "description": "Turns a strategy brief and behavior research into a clean-room SPEC.md with user stories and Given/When/Then tests a coding agent can build.",
    "category": "Writing & Publishing"
   },
   {
@@ -6477,13 +6583,6 @@
    "author": "MSMage",
    "url": "https://x.ai/bot/sHoih_Qwlzlkr4aGC4WBa",
    "description": "A Snapmaker U1 specialist that takes a print from idea to ready-to-print file: it finds or designs the part, picks the filament and toolheads.",
-   "category": "Writing & Publishing"
-  },
-  {
-   "name": "Writer",
-   "author": "Anand",
-   "url": "https://x.ai/bot/jNEh8fKV4t37pPHkIi-Hu",
-   "description": "Writes one short weekly post in your voice from your Researcher bot's what-changed note, for you to check and post yourself.",
    "category": "Writing & Publishing"
   },
   {
@@ -6522,6 +6621,13 @@
    "category": "Writing & Publishing"
   },
   {
+   "name": "Afterglow",
+   "author": "Nick Salerni",
+   "url": "https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8",
+   "description": "Your daily X post-game. Every morning it charts how your posts did and tells you what worked, no drafting, just…",
+   "category": "X (Twitter) & Social Media"
+  },
+  {
    "name": "Bookmark Bot",
    "author": "Jay",
    "url": "https://x.ai/bot/7U_uHDAKGtHqoGsKMyREA",
@@ -6543,17 +6649,17 @@
    "category": "X (Twitter) & Social Media"
   },
   {
-   "name": "Bookmark Digest",
-   "author": "Alvin",
-   "url": "https://x.ai/bot/uz0PRmWy2_30MzZpATxmH",
-   "description": "Turns your X bookmarks into readable Pages. Setup takes a minute: connect X and get a preview of your newest saves.",
-   "category": "X (Twitter) & Social Media"
-  },
-  {
    "name": "Bookmark Miner",
    "author": "Ben",
    "url": "https://x.ai/bot/1k1nfNzus_-WXY-nOYM2V",
    "description": "Mines your X bookmarks so nothing you saved goes to waste: every one gets Keep, Later, Library or Skip with a reason…",
+   "category": "X (Twitter) & Social Media"
+  },
+  {
+   "name": "Bronn",
+   "author": "Darren Marble",
+   "url": "https://x.ai/bot/dmdieR7YwBkRJN5xYKnn6",
+   "description": "Capital Raise IR bot for any round. Finds 1st-degree LinkedIn investors, drafts veiled openers + a Day 4–5 one-liner, and sends the DMs itself on a safe.",
    "category": "X (Twitter) & Social Media"
   },
   {
@@ -6578,6 +6684,13 @@
    "category": "X (Twitter) & Social Media"
   },
   {
+   "name": "Follow Audit",
+   "author": "Glenn Williams",
+   "url": "https://x.ai/bot/qoui6HKCTOoftCJiKRNst",
+   "description": "Read-only X bot tracking who follows you and who you follow; flags inactive, dormant and deleted accounts and unfollowers. Never unfollows, only lists.",
+   "category": "X (Twitter) & Social Media"
+  },
+  {
    "name": "Fred",
    "author": "Parker",
    "url": "https://x.ai/bot/OLEh3dJE_hXSrhlJsibAq",
@@ -6595,7 +6708,7 @@
    "name": "INDEXX",
    "author": "Kevin Rose",
    "url": "https://x.ai/bot/Vn8tnMK2GyiFmnWNoF0gT",
-   "description": "Turns your Instagram Saved posts and reels into a searchable, cited personal wiki with transcripts, tags, and creator…",
+   "description": "Turns your Instagram Saved posts and reels into a searchable, cited personal media wiki with transcripts, tags, creator…",
    "category": "X (Twitter) & Social Media"
   },
   {
@@ -6624,6 +6737,13 @@
    "author": "Phillip Holland",
    "url": "https://x.ai/bot/ydje9SAP_d0lIHxOdu2_j",
    "description": "Paste an Instagram, TikTok or YouTube Shorts link and get back an X-ready MP4 plus a copyable post draft that credits the creator.",
+   "category": "X (Twitter) & Social Media"
+  },
+  {
+   "name": "Reply Queue",
+   "author": "Glenn Williams",
+   "url": "https://x.ai/bot/v1dE8QQMdgiuvtiLB9Y4Z",
+   "description": "Read-only X bot: pulls replies, mentions and quotes on your recent posts and sorts them into a queue of the ones worth answering. You reply yourself.",
    "category": "X (Twitter) & Social Media"
   },
   {
@@ -6669,31 +6789,10 @@
    "category": "X (Twitter) & Social Media"
   },
   {
-   "name": "Social Media Manager",
-   "author": "Daniel",
-   "url": "https://x.ai/bot/Cfl2KaSwJw20vkq1kgjXA",
-   "description": "German-language content bot for creators: hooks, text posts, carousel drafts and weekly plans for TikTok, Instagram, YouTube, X and LinkedIn.",
-   "category": "X (Twitter) & Social Media"
-  },
-  {
-   "name": "Unfollow Batch",
-   "author": "@CryptoEmpressX",
-   "url": "https://x.ai/bot/NZgwOjJgVCXjaMyq5A_QN",
-   "description": "Clean up your X following list the safe way: find who doesn't follow you back and unfollow them yourself, one at a time, max 100…",
-   "category": "X (Twitter) & Social Media"
-  },
-  {
-   "name": "Viral Analyst",
-   "author": "Matt Kloss",
-   "url": "https://x.ai/bot/Q6AwABs_6Nt0Lx8LzR-A_",
-   "description": "Paste any X post you want to analyze into chat.",
-   "category": "X (Twitter) & Social Media"
-  },
-  {
    "name": "Viral Autopsy",
    "author": "painn",
    "url": "https://x.ai/bot/H29yEjYY2CqbJFlklSDII",
-   "description": "studies the creators who go viral, breaks down why every hook works, and keeps a formula file you write…",
+   "description": "Studies posts going viral in your X niche, breaks down exactly why each hook worked, and sends a short daily report.",
    "category": "X (Twitter) & Social Media"
   },
   {
